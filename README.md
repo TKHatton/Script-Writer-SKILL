@@ -19,23 +19,27 @@ Hand it your offer and audience. It handles the rest.
 ```
 script-writer/
 ├── SKILL.md                         ← Load this to activate the skill
+├── README.md                        ← This file
 ├── references/
-│   ├── hooks.md                     ← 12 hook types with examples and when to use each
-│   ├── frameworks.md                ← PAS, AIDA, BAB, 4Ps, and 6 more with templates
-│   ├── platform_formats.md          ← Character limits, aspect ratios, pacing by platform
-│   ├── pain_desire_mapping.md       ← How to extract and rank pain points and desires
-│   └── testing_discipline.md        ← What to watch, what to change, when to call a winner
+│   ├── anti_patterns.md             ← What to avoid in script writing
+│   ├── formats.md                   ← Format specifications and guidelines
+│   ├── good_examples.md             ← Examples of effective scripts
+│   ├── hooks.md                     ← Hook types with examples and when to use each
+│   ├── psychology.md                ← Psychological principles for persuasive copy
+│   └── voice.md                     ← Voice and tone guidance
 ├── workflows/
-│   ├── ad_script_workflow.md        ← Meta, Instagram, YouTube, TikTok paid ads
-│   ├── organic_content_workflow.md  ← Hooks for reels, carousels, long-form video
-│   ├── email_workflow.md            ← Subject lines, preview text, body copy
-│   └── webinar_workflow.md          ← Openers, transitions, offer moments, closes
-├── templates/
-│   ├── brand_voice_template.md      ← Fill this in once — applies to every script
-│   └── audience_profile_template.md ← Fill this in per offer/audience
-└── examples/
-    ├── meta_ad_examples.md          ← 3 complete ad scripts across hook types
-    └── webinar_opener_examples.md   ← 3 complete openers with frameworks labeled
+│   ├── adapt.md                     ← Workflow for adapting existing scripts
+│   ├── diagnose.md                  ← Workflow for diagnosing script issues
+│   └── new_script.md                ← Workflow for creating new scripts
+├── formats/
+│   ├── carousel.md                  ← Carousel post format specs
+│   ├── email.md                     ← Email script format specs
+│   ├── short_video_ad.md            ← Short-form video ad specs
+│   ├── vsl.md                       ← Video sales letter format specs
+│   ├── webinar.md                   ← Webinar script format specs
+│   └── youtube_longform.md          ← Long-form YouTube video specs
+└── templates/
+    └── brand_voice_template.md      ← Fill this in once — applies to every script
 ```
 
 ---
