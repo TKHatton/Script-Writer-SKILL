@@ -29,9 +29,49 @@
 
 ---
 
+## VISUAL DIRECTION FOR AI VIDEO GENERATION
+
+*Use these settings when generating videos with Higgsfield or similar tools.*
+
+### LENISE — AVATAR APPEARANCE
+- **Look:** Professional but approachable. Not corporate stiff.
+- **Wardrobe options:**
+  - Solid color top (navy, burgundy, sage green — not black or white)
+  - Simple jewelry if any
+  - Hair natural / styled casually
+- **Makeup:** Natural, camera-ready but not overdone
+
+### SETTING OPTIONS (rotate across ads for variety)
+
+| Setting | Description | Best for scripts |
+|---------|-------------|------------------|
+| **Home office** | Clean desk, plant in background, natural light from window. Morning light, warm tones. | Scripts 1, 4, 5 |
+| **Coffee shop** | Blurred background, ambient noise feel, casual. Daytime. | Scripts 2, 6 |
+| **Walking outside** | Urban sidewalk or park path, phone held selfie-style, natural movement. | Script 3 |
+| **Couch/living room** | Casual, end-of-day feel, talking to a friend. Warm lamp lighting. | Story scripts |
+
+### ENERGY BY SCRIPT TYPE
+
+| Hook type | Energy | Facial expression | Pace |
+|-----------|--------|-------------------|------|
+| Curiosity | Leaning in, eyebrows slightly raised | Engaged, "let me tell you something" | Medium |
+| Urgency/Pain | Direct, slight concern | Serious but caring | Slightly faster |
+| Coca-Cola/Proof | Knowing smile at start | "Can you believe this?" → warm | Medium, pause for effect |
+| Story | Relaxed, conversational | Animated, like telling a friend | Natural, varied |
+| Contrarian | Confident, matter-of-fact | Slight head tilt, "here's the thing" | Measured |
+
+---
+
 ### SCRIPT 1: "The 13 Platforms" Hook (Curiosity + Specificity)
 **Hook type:** Specific-number curiosity
 **Length:** 25 seconds
+
+**SCENE DIRECTION:**
+- **Setting:** Home office, morning light from window
+- **Position:** Seated at desk, slight lean toward camera
+- **Energy:** Engaged, informative — like explaining something important to a friend
+- **Opening gesture:** Slight head tilt, direct eye contact
+- **Wardrobe:** Solid sage green or navy top
 
 ```
 [0-3 sec] HOOK
@@ -51,16 +91,24 @@ We monitor 13 platforms — including ones you've probably never heard of. Every
 Takes 30 seconds. You should probably know."
 ```
 
-**Visual notes:**
-- Open with phone in hand, casual
-- Cut to screen recording showing AI search results (optional)
-- End on direct camera
+**Visual cues:**
+- [0-3 sec] Direct to camera, slight eyebrow raise on "right now"
+- [3-8 sec] Count on fingers when listing platforms
+- [8-18 sec] Small head shake on "Nobody's watching"
+- [18-25 sec] Warm smile, inviting energy
 
 ---
 
 ### SCRIPT 2: "They're Asking Right Now" Hook (Pain + Urgency)
 **Hook type:** Present-tense pain
 **Length:** 22 seconds
+
+**SCENE DIRECTION:**
+- **Setting:** Coffee shop, blurred background, ambient feel
+- **Position:** Seated, phone propped up, leaning in slightly
+- **Energy:** Direct, slight concern — like warning a friend
+- **Opening gesture:** Eye contact immediately, slight pause before speaking
+- **Wardrobe:** Solid burgundy or deep blue top
 
 ```
 [0-3 sec] HOOK
@@ -79,16 +127,24 @@ And I don't just send you a report and wish you luck. I go in and fix what's wro
 "DM 'SIGNAL' — I'll show you what they're saying about you right now. Free."
 ```
 
-**Visual notes:**
-- Tight shot, slight urgency in delivery
-- Hand gesture on "13"
-- Slow down on "fix what's wrong"
+**Visual cues:**
+- [0-3 sec] Tight shot, direct eye contact, slight lean forward
+- [3-8 sec] Small head shake on "might not even be true"
+- [8-16 sec] Hand gesture on "13", slow down on "fix what's wrong"
+- [16-22 sec] Softer energy, inviting smile
 
 ---
 
 ### SCRIPT 3: "Coca-Cola" Hook (Social Proof + Contrast)
 **Hook type:** Third-party proof
 **Length:** 28 seconds
+
+**SCENE DIRECTION:**
+- **Setting:** Walking outside, urban sidewalk or park path
+- **Position:** Phone held selfie-style, natural walking movement
+- **Energy:** Knowing, slightly amused at start → serious in middle → warm at end
+- **Opening gesture:** Slight smile like sharing a surprising fact
+- **Wardrobe:** Casual but put-together, light jacket or cardigan
 
 ```
 [0-3 sec] HOOK
@@ -109,16 +165,24 @@ And when AI is making things up about you? I don't just tell you. I fix it."
 DM 'SIGNAL' — I'll run a quick check on your business. Takes 2 minutes."
 ```
 
-**Visual notes:**
-- Start with slight "can you believe this?" energy
-- Pause after "You don't have that luxury"
-- End warm, not salesy
+**Visual cues:**
+- [0-3 sec] Amused eyebrow raise, "can you believe this?" energy
+- [3-10 sec] Stop walking briefly, direct to camera on "You don't have that luxury"
+- [10-20 sec] Resume walking, confident delivery
+- [20-28 sec] Stop again, warm inviting smile on CTA
 
 ---
 
 ### SCRIPT 4: "3 Platforms vs 13" Hook (Contrarian)
 **Hook type:** Contrarian belief challenge
 **Length:** 24 seconds
+
+**SCENE DIRECTION:**
+- **Setting:** Home office, morning light, clean desk visible
+- **Position:** Seated, slight lean toward camera, hands visible for gestures
+- **Energy:** Confident, matter-of-fact — "here's the thing"
+- **Opening gesture:** Slight head tilt, knowing look
+- **Wardrobe:** Solid navy or forest green top
 
 ```
 [0-3 sec] HOOK
@@ -139,15 +203,24 @@ Not 'here's your report, good luck.' I actually go in and correct it."
 "DM 'SIGNAL' and I'll show you what's out there. You should know."
 ```
 
-**Visual notes:**
-- Count on fingers when listing platforms
-- Emphasis on "I fix it"
+**Visual cues:**
+- [0-3 sec] Hold up 3 fingers, then 5 fingers
+- [3-10 sec] Count on fingers when listing platforms, shake head on "not monitoring"
+- [10-18 sec] Confident nod, emphasis on "I fix it"
+- [18-24 sec] Direct eye contact, slight lean forward
 
 ---
 
 ### SCRIPT 5: "Good Luck" Hook (Pain Point Direct)
 **Hook type:** Direct pain / competitor contrast
 **Length:** 20 seconds
+
+**SCENE DIRECTION:**
+- **Setting:** Home office, afternoon light, relaxed but professional
+- **Position:** Seated, slightly reclined, conversational posture
+- **Energy:** Mild frustration → relief → warmth
+- **Opening gesture:** Slight eye roll / knowing look on "good luck"
+- **Wardrobe:** Solid sage green or soft coral top
 
 ```
 [0-3 sec] HOOK
@@ -166,15 +239,24 @@ Then I actually fix them. You get a report showing what was wrong AND what I did
 "DM 'SIGNAL' — I'll show you what AI is saying about you right now."
 ```
 
-**Visual notes:**
-- Slight frustration energy on "That's homework"
-- Relief energy on the solution
+**Visual cues:**
+- [0-3 sec] Slight air quotes on "good luck"
+- [3-10 sec] Small head shake, slight frustration, emphasis on "That's homework"
+- [10-16 sec] Energy shift to confident, nod on "I fix them"
+- [16-20 sec] Warm smile, inviting
 
 ---
 
 ### SCRIPT 6: "The Question" Hook (Story Start)
 **Hook type:** Mid-thought story
 **Length:** 26 seconds
+
+**SCENE DIRECTION:**
+- **Setting:** Couch/living room, warm lamp lighting, end-of-day feel
+- **Position:** Casual seated position, like talking to a friend who stopped by
+- **Energy:** Animated storytelling → surprised → warm and helpful
+- **Opening gesture:** Lean in slightly, "you won't believe this" energy
+- **Wardrobe:** Relaxed but put-together, soft sweater or casual top
 
 ```
 [0-3 sec] HOOK
@@ -194,10 +276,11 @@ And when something's wrong, I don't just flag it. I fix it."
 It might surprise you."
 ```
 
-**Visual notes:**
-- Start like you're in the middle of telling a friend
-- Genuine surprise in the story
-- Warm close
+**Visual cues:**
+- [0-3 sec] Eyebrows raised, slight disbelief in voice
+- [3-10 sec] Head shake on "inventing credentials", genuine surprise
+- [10-18 sec] Shift to more direct, confident energy
+- [18-26 sec] Warm, inviting smile, slight head tilt on "might surprise you"
 
 ---
 
