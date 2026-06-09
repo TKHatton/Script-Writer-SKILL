@@ -126,7 +126,6 @@ If the user is working with Ad Director, the output is consumed by Ad Director P
 - **`references/anti_patterns.md`** — Manipulation tactics and dark patterns to avoid. The ethics layer.
 
 ### Workflow files
-- **`workflows/new_script.md`** — The "write a new script from scratch" workflow. The default path.
 - **`workflows/adapt.md`** — Adapting / iterating a script that already exists.
 - **`workflows/diagnose.md`** — Diagnosing why an existing script isn't converting.
 

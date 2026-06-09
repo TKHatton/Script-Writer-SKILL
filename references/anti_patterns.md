@@ -1,312 +1,216 @@
-# Good Examples: Concrete References
+# Anti-Patterns: What Not to Do
 
-Real examples by hook type and format. Use these as anchor points when generating new scripts — pattern-match against these for what "good" looks like.
-
-## How to use this file
-
-Read this when:
-- You're about to write a hook and want to see what a strong one looks like
-- You need a reference for a specific format you haven't written before
-- You're stuck and need a concrete example to pattern from
-- You want to show the user what a winning approach looks like
-
-Don't copy these verbatim. Use them as proof of pattern — *this is the kind of thing that works*.
+Manipulation tactics and dark patterns to avoid in script writing. Ethical marketing works because it builds trust; these tactics destroy it.
 
 ---
 
-## Hooks by type — winning examples in the wild
+## The non-negotiables (never use these)
 
-### Curiosity hooks
+### 1. Fabricated scarcity
 
-> "I just cancelled three SaaS tools this week. The reason is going to make every solo operator feel scammed."
+**What it is:** Claiming limited availability when the product isn't actually limited.
 
-> "I watched my workflow draft 8 client emails in 90 seconds. Last year that would've taken me 4 hours."
+**Examples:**
+- "Only 3 spots left" (but the counter resets every day)
+- "Cart closes in 2 hours" (but reopens next week with same deadline)
+- Fake countdown timers that restart when you reload the page
 
-> "I've been running ads for 4 years. Last month I deleted 11 of the 12 things I used to do. My results got better."
+**Why it fails:** Once discovered, the lie destroys all future trust. And it gets discovered.
 
-**Pattern:** Specific number + open loop + implied payoff. The brain can't not want to close the loop.
-
----
-
-### Pain hooks
-
-> "It's 11pm and you're still building the proposal. You quoted three days ago and you still don't have a price."
-
-> "You opened ChatGPT 8 times today and closed it without typing anything because you didn't know what to ask."
-
-> "Your Notion has 47 'systems' in it. None of them get used past day 3."
-
-**Pattern:** Specific moment + time + behavior detail. Reader recognizes themselves in the specifics.
+**What to do instead:** Real scarcity (cohort with actual limited seats) or no scarcity claim at all.
 
 ---
 
-### Contrarian hooks
+### 2. Manufactured urgency
 
-> "Stop trying to grow your email list. The biggest list I ever built made me less money than my smallest one."
+**What it is:** Creating artificial deadlines without legitimate reason.
 
-> "Posting every day is killing your business. Here's the math."
+**Examples:**
+- "Price goes up at midnight" (but why?)
+- "Flash sale ends in 1 hour" (every day for 6 months)
+- "Last chance" emails that repeat weekly
 
-> "AI automation isn't going to save you 10 hours a week. It's going to save you 2. And that's exactly why you should still build it."
+**Why it fails:** Trains your audience to ignore deadlines. The boy who cried wolf.
 
-**Pattern:** Direct contradiction of category orthodoxy + personal stake + promise of evidence. Reader can't dismiss because you're inviting the data check.
-
----
-
-### Pattern interrupt hooks
-
-> Supplement brand opens with the product being thrown in the trash. Text: "We threw away 10,000 bottles. Here's why." (Documented hook rate: 51%)
-
-> Creator films mid-sentence: "...and that's the third client this month who told me they wasted $5K on a course before finding me."
-
-> Sudden silence after upbeat music + close-up on a hand holding a phone showing one stat: "3 hours." Cuts to: "That's how long it used to take. Now it takes 12 minutes."
-
-**Pattern:** Visual/audio violates the feed's expected rhythm + has a reason that resolves quickly + earns the interrupt.
+**What to do instead:** Real deadlines tied to real events (cohort starts, early-bird pricing ends, beta period closes).
 
 ---
 
-### Specific-Result hooks
+### 3. Fake social proof
 
-> "$11,847 in sales from one workshop. Here's the exact 47-minute structure."
+**What it is:** Fabricated testimonials, inflated numbers, or misleading stats.
 
-> "I've watched 312 students go through this. 89 actually shipped. Here's what made the 89 different from the 223."
+**Examples:**
+- Stock photo + made-up quote
+- "10,000+ students" (counted free signups, not paying customers)
+- "Sarah K. made $50K" (but Sarah K. is your sister and has a different business model)
 
-> "6 hours and 12 minutes. That's the average time clients save per week after we install this one workflow."
+**Why it fails:** Destroys credibility permanently. One verifiable lie ruins everything.
 
-**Pattern:** Unrounded number + named context + promise of method. The "47 minutes" or "$11,847" — never "an hour" or "$12K."
-
----
-
-### Story hooks
-
-> "I refused to learn Zapier for three years. Then I built this in 90 minutes. I'm furious at past me."
-
-> "I lost $4,200 on my first ad campaign. Most of it in 48 hours. Here's what I'd tell my younger self."
-
-> "My first workshop had 4 people. Two were friends. One left early. I almost quit. Here's what changed."
-
-**Pattern:** Specific failure + specific time/money + emotional honesty + turn toward what changed. The vulnerability is what creates trust.
+**What to do instead:** Real testimonials with full names, real photos, and verifiable outcomes. If you don't have them yet, don't fake them — use your own results or skip proof until you have it.
 
 ---
 
-### Ultra-Specific Benefit hooks
+### 4. Hidden or misleading pricing
 
-> "Send 40 personalized client emails in 12 minutes. Without it looking automated."
+**What it is:** Concealing the real cost until checkout.
 
-> "Cut 2 hours of weekly admin without hiring, without learning Zapier, without paying for another tool."
+**Examples:**
+- "$7" (but it's $7/month billed annually = $84)
+- Subscription auto-renew without clear disclosure
+- "Free" with mandatory upsells at checkout
 
-> "Get your first paying customer for your AI workflow this week. From a list of 0."
+**Why it fails:** Instant refund requests, chargebacks, and angry customers who feel tricked.
 
-**Pattern:** Specific count + specific time + specific objection answered ("without X"). The "withouts" do the work.
-
----
-
-## Full ad examples by format
-
-### Example: Short video ad (30 seconds, Pain + PAS)
-
-```
-[0:00-0:03]
-Visual: Talking head close-up, looking annoyed
-"It's 11pm and you're still building the proposal."
-
-[0:03-0:08]
-Cut to: Messy desk, monitor glow
-"You quoted three days ago. You still don't have a price."
-
-[0:08-0:18]
-Screen recording: Template walkthrough
-"I built this template after my 30th late-night proposal. Last week's took 23 minutes."
-
-[0:18-0:25]
-Visual: Calendar showing Friday at 5pm, laptop closed
-"Now I close the laptop at 5pm on Fridays. Like I planned to when I quit my job."
-
-[0:25-0:30]
-On-screen: "Comment PROPOSAL — I'll DM it"
-"Comment 'PROPOSAL' below. I'll DM you the template."
-```
-
-**Why it works:**
-- Opens mid-thought, no "Hey guys"
-- Specific time (11pm, 23 minutes)
-- Personal turn ("when I quit my job")
-- Specific, frictionless CTA
+**What to do instead:** State the full price upfront. "$497" or "$97/month for 6 months = $582 total."
 
 ---
 
-### Example: Static ad (meme card format, Contrarian)
+### 5. Bait-and-switch offers
 
-```
-[Background: black with subtle texture]
+**What it is:** Advertising one thing, delivering another.
 
-[TOP — huge bold yellow text]
-"Stop posting daily.
-Your business
-is paying for it."
+**Examples:**
+- "Free workshop" that's actually a 90-minute sales pitch
+- "Course" that's actually just a PDF
+- "Done-for-you" that's actually "done-with-you" (you do most of the work)
 
-[CENTER — supporting line, white]
-14 months. Daily posts. $0 from organic.
-Then I switched to weekly + ads.
-Last 90 days: $14,200.
+**Why it fails:** Refund requests, bad reviews, reputation damage.
 
-[BOTTOM — small white]
-"Same audience size. Less time. Actual revenue."
-
-[CTA button bottom right]
-GET THE BREAKDOWN →
-```
-
-**Why it works:**
-- Hook violates creator-economy orthodoxy
-- Specific time (14 months, 90 days) and specific money ($0, $14,200)
-- Proof line right under the hook (the math)
-- One clear CTA, no clutter
+**What to do instead:** Describe exactly what the product is. If it's a pitch webinar, call it a pitch webinar. If it's a 47-page PDF, say "47-page guide."
 
 ---
 
-### Example: Carousel ad (5 slides, Specific-Result)
+### 6. Hype words without backing
 
-```
-SLIDE 1 (hook):
-"47 minutes."
-"Last Sunday's entire week of content."
+**What it is:** Empty superlatives and vague promises.
 
-SLIDE 2 (problem):
-"Used to take 6 hours every Sunday."
-"Sunday became 'work day.' I started dreading it."
+**Examples:**
+- "Revolutionary"
+- "Game-changing"
+- "Unlock your potential"
+- "Transform your life"
+- "Secret method"
 
-SLIDE 3 (mechanism):
-"I built 12 prompts. One for every weekly task."
-"Content. Sales. Follow-ups. 4-8 min each."
+**Why it fails:** Sounds like every other scammy ad. Triggers ad blindness.
 
-SLIDE 4 (proof):
-"Last Sunday: done by 11am. Outside by noon."
-"47 of 52 last workshop attendees use this weekly."
-
-SLIDE 5 (CTA):
-"Build all 12 with me Saturday."
-"$17. 90 minutes. Live. Link below →"
-```
-
-**Why it works:**
-- Slide 1 stands alone as a static ad
-- Each slide adds new info (no padding)
-- Numbers throughout (47, 6, 12, 52, $17)
-- One CTA, on the last slide only
+**What to do instead:** Specific, verifiable claims. Not "life-changing," but "saved me 6 hours/week."
 
 ---
 
-### Example: Email subject lines (welcome sequence)
+### 7. Shame-based marketing
 
-```
-Day 0 (deliver): "Here's the workflow template"
-Day 1 (story): "the night I almost refunded a client"
-Day 3 (value): "the 4-line prompt that drafts client emails"
-Day 5 (soft offer): "Sarah's Sunday afternoon"
-Day 7 (direct offer): "47 of 52 shipped — here's how"
-Day 9 (last call): "24 hours: workshop closes"
-```
+**What it is:** Making the audience feel inadequate, stupid, or broken to sell the fix.
 
-**Why these work:**
-- Specific and curious (not "important update")
-- Lowercase first letters feel more personal
-- Numbers and names where possible
-- Each opens a loop the body resolves
+**Examples:**
+- "Still doing it the hard way?"
+- "Everyone else figured this out — why haven't you?"
+- "If you're not [achieving X], you're failing"
+
+**Why it fails:** People buy from people they trust, not people who make them feel bad.
+
+**What to do instead:** Empathy-based marketing. "This used to be me" not "This is what's wrong with you."
 
 ---
 
-### Example: YouTube video opening (10-second hook + promise)
+### 8. False authority
 
-```
-TITLE: "I Built a $0 Client Reporting System in 90 Minutes (Full Tutorial)"
-THUMBNAIL: Split image — chaotic spreadsheets on left, clean dashboard on right, "90 MIN" overlay
+**What it is:** Claiming credentials, awards, or associations you don't have.
 
-OPENING (verbatim):
-"I just built a client reporting system in 90 minutes. It runs every Friday at 5pm, drafts the reports, and emails them to me Sunday morning. Total cost: $0. In the next 10 minutes I'll show you the whole build — including the part where I broke it twice."
+**Examples:**
+- "As seen on [major publication]" (you bought a sponsored post)
+- "Award-winning" (the award was self-issued or paid-for)
+- "#1 [category]" (based on criteria you made up)
 
-FIRST VISUAL: The exact dashboard from the thumbnail.
-```
+**Why it fails:** Discoverable. One search reveals the truth.
 
-**Why it works:**
-- First sentence matches the title
-- First shot matches the thumbnail
-- Then exceeds the promise: "broke it twice" — honesty signal
-- Specific timeframes throughout
+**What to do instead:** Honest credentials. If you haven't been featured legitimately, don't claim it. Use actual case studies instead.
 
 ---
 
-### Example: Webinar origin story opening
+### 9. Overcomplicating to sell the simplification
 
-```
-"18 months ago I was buying every AI course that launched. Spent $4,200 on 7 courses. Watched maybe 8 hours total. Built zero things.
+**What it is:** Making a problem seem more complex than it is so your solution appears necessary.
 
-The turning point was March 2025. A client asked me to automate their client reporting. I had a Tuesday afternoon, a credit card, and no excuse.
+**Examples:**
+- "You need a 14-step framework" (when 3 steps would work)
+- Unnecessary jargon to sound sophisticated
+- Creating fake prerequisites ("You need to learn X before you can do Y") when none exist
 
-By Friday I had a working workflow. Not perfect. But working. That's when I realized the courses were the problem, not me.
+**Why it fails:** When people realize the problem was simpler than you claimed, they lose trust.
 
-Since then I've built 14 workflows for myself and 31 for clients. And the pattern's the same every time.
-
-If you've been buying courses and not shipping, I want you to know — it's not you. Today I'm going to show you the pattern that broke that cycle for me."
-```
-
-**Why it works:**
-- Specific time ("18 months ago," "March 2025," "Tuesday afternoon")
-- Specific numbers ($4,200, 7 courses, 8 hours, 14 + 31 workflows)
-- Vulnerability ("built zero things")
-- The turning point is concrete (specific event, specific feeling)
-- Ends by validating the audience ("it's not you")
+**What to do instead:** Make the problem clear but not artificially complex. Show the simplest path first.
 
 ---
 
-### Example: The Stack (Perfect Webinar offer reveal)
+### 10. Exploiting FOMO without substance
 
-```
-"What you get when you join the AI Workflow Builder cohort:
+**What it is:** "Everyone's doing this" without proving anyone's actually benefiting.
 
-- The 4-week cohort with 4 live builds — where I personally walk you through building 4 specific workflows. Value: $1,200.
+**Examples:**
+- "Don't get left behind"
+- "The future is [X] — are you ready?"
+- "Join the thousands who've already [vague claim]"
 
-- 12 done-for-you prompt templates — the exact prompts I use for client work, content, sales, follow-ups, and more. Each one tested across dozens of use cases. Value: $400.
+**Why it fails:** Vague and unmemorable. Doesn't motivate action because there's no concrete reason.
 
-- Weekly office hours for 4 weeks — bring any workflow you're building, get unstuck live. Value: $600.
-
-- Private community + workflow library — access to the workflows other students have built, plus a place to share your own. Value: $300.
-
-- 1-on-1 30-min strategy call — we map out your highest-leverage automation in your first week. Value: $200.
-
-Total value: $2,700.
-
-Today's price: $497."
-```
-
-**Why it works:**
-- Each component is real and named specifically
-- Each value is plausible (not "$9,999 LIFETIME ACCESS!")
-- The stack anchors high before the price
-- Price reveal is direct, no apology
+**What to do instead:** Specific proof that people like them are benefiting. Not "don't get left behind," but "47 of 52 attendees shipped within 7 days."
 
 ---
 
-## Patterns across all good examples
+## Ethical alternatives (use these instead)
 
-When you analyze what makes these examples work, the same patterns appear:
+| Instead of... | Use... |
+|---|---|
+| Fake scarcity | Real cohort limits, or no scarcity claim |
+| Manufactured urgency | Real deadlines tied to real events |
+| Vague testimonials | Named customers, specific results, photos |
+| "$7" (hiding annual billing) | "$84/year ($7/month)" |
+| "Life-changing" | "Saved me 6 hours/week" |
+| "Secret method" | "Here's exactly how it works" |
+| "Don't get left behind" | "Here's who's already benefiting and how" |
+| Shame ("Why haven't you?") | Empathy ("This used to be me too") |
 
-1. **Specificity over abstraction** — every example has concrete numbers, names, or times
-2. **Front-loaded value** — the hook delivers in the first 5 words or first 3 seconds
-3. **One clear CTA** — never multiple competing actions
-4. **Mid-thought openers** — no "Hey, So, Today" energy
-5. **Vulnerability or honesty** — the "I almost quit" or "I broke it twice" notes
-6. **The "without" structure** — addressing objections inside the benefit ("without learning code")
-7. **Named customers** — Sarah K., Marcus T., not "thousands of students"
+---
 
-When generating new scripts, audit your draft against these patterns. If most are missing, the script will underperform regardless of framework.
+## The trust test
 
-## Find more examples
+Before using any tactic, ask:
 
-Real ad libraries to study (no need to copy — just observe patterns):
+1. **Would I feel misled if I were on the receiving end of this?**
+2. **Can I back this claim with evidence if questioned?**
+3. **Will this tactic still feel ethical in 6 months when I look back?**
 
-- **Meta Ad Library** (facebook.com/ads/library) — filter for ads running 30+ days. Those passed Meta's profitability test.
-- **TikTok Top Ads Library** — top-performing ads by category.
-- **Swiped.co** — direct response copy archive.
-- **WhoIsThisCreative.com** — case studies of high-performing creative campaigns.
+If the answer to any of these is uncertain, don't use it.
 
-When you find a winning ad in the wild, screenshot the hook, body, and CTA separately. Build your own swipe file. The skill works better when you've trained your own pattern-recognition.
+---
+
+## Why ethical marketing works better
+
+Short-term manipulation might generate a quick sale. But:
+
+- **Refund rates are higher** (buyer's remorse kicks in fast)
+- **Lifetime value is lower** (they never buy from you again)
+- **Word-of-mouth is negative** (they warn others)
+- **Your reputation compounds negatively** (hard to undo)
+
+Ethical marketing:
+- **Lower refund rates** (they got what they expected)
+- **Higher lifetime value** (they trust you for the next offer)
+- **Positive word-of-mouth** (they refer others)
+- **Reputation compounds positively** (easier to sell over time)
+
+The math is clear. Trust is the most valuable asset in marketing. Don't trade it for a quick sale.
+
+---
+
+## When you see these patterns, stop
+
+If you catch yourself writing:
+- "Only X spots left" (and you're not sure it's true)
+- A claim you can't back up with evidence
+- A deadline you're planning to extend
+- Social proof you're inflating or fabricating
+- A promise that's bigger than what you'll deliver
+
+**Stop. Rewrite.** The short-term gain isn't worth the long-term cost.

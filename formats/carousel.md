@@ -1,245 +1,221 @@
-# Hooks Reference Library
+# Template: Carousel & Static Image Ads
 
-The first 3 seconds (video) or first 5 words (text) decide whether the rest of the script gets read. Hook rate is the single highest-leverage variable in any script. Aim for 25%+ of viewers passing the 3-second mark; great hooks hit 50%+.
-
-## The 7 hook types
-
-These cover virtually every high-performing ad in 2026. Use this menu when choosing which hook to write — and across three variations, use three different types, not three versions of the same type.
+Two high-performing visual formats for Meta, Instagram, and LinkedIn. Carousel for storytelling across multiple slides; static for single-image impact.
 
 ---
 
-## 1. Curiosity (Open Loop)
+## PART 1: CAROUSEL ADS (5-slide)
 
-**Mechanism:** State something incomplete that forces the brain to keep watching for resolution. The brain hates open loops and is compelled to close them.
+Top-performing format for many course and product offers in 2026. Treat each slide as one micro-script.
 
-**When it works:**
-- Products with surprising or counterintuitive mechanisms
-- Audiences who are *problem-aware* but not *solution-aware*
-- Anyone who'd watch an explainer for the topic
+### Format specs
 
-**When it fails:**
-- Audiences who are already convinced and just want to buy (annoyed by buildup)
-- When the curiosity gap is too generic ("you won't believe what happens next")
+- **Aspect:** 1:1 square (universal); 4:5 supported on some platforms
+- **Slide count:** 5 is the sweet spot (minimum 3, maximum 10)
+- **Each slide:** Must be readable in 1 second; must stand alone
+- **Caption text per slide:** Each slide can have its own headline
 
-**Three good examples:**
+### The 5-slide structure
 
-> *"I just cancelled three SaaS tools this week. The reason is going to make every solo operator feel scammed."*
-> — Open loop on "the reason." Audience can't not keep watching.
+```
+Slide 1: HOOK (must be the most attention-grabbing)
+Slide 2: PROBLEM expanded
+Slide 3: MECHANISM or step
+Slide 4: OUTCOME / proof
+Slide 5: CTA (with visual arrow or "→")
+```
 
-> *"I've been running ads for 4 years. Last month I deleted 11 of the 12 things I used to do. Here's why my results got better."*
-> — Loop is "what did he delete?" + counterintuitive twist.
+### Fill-in template
 
-> *"Watch this dashboard go from 30 manual entries a week to zero. The setup took me 47 minutes."*
-> — Visual loop (how does it get to zero?) plus time specificity.
-
-**Two to avoid:**
-
-❌ *"You won't BELIEVE what happened next..."* — clickbait that has been so overused the brain rejects it.
-❌ *"The one secret nobody is talking about..."* — secret framing now signals low quality.
-
----
-
-## 2. Pain (Problem-First)
-
-**Mechanism:** Name the audience's pain with such precision they feel called out. Loss aversion is roughly 2x stronger than gain motivation; pain hooks consistently outperform benefit hooks in A/B tests on cold audiences.
-
-**When it works:**
-- Cold audiences with a felt problem they're actively trying to solve
-- Filters for high-intent — right people lean in, everyone else scrolls
-- B2B and service businesses where the problem has clear costs
-
-**When it fails:**
-- When the pain is too vague — sounds like a parody
-- Audience already past the pain phase (warm leads who are evaluating, not suffering)
-
-**Three good examples:**
-
-> *"It's 11pm and you're still building the proposal. You quoted three days ago and you still don't have a price."*
-> — Visceral, time-specific, names a specific service-business pain.
-
-> *"You opened ChatGPT 8 times today and closed it without typing anything because you didn't know what to ask."*
-> — Names the actual modern AI struggle, not the imagined one.
-
-> *"Your Notion has 47 'systems' in it. None of them get used past day 3."*
-> — Calls out the universal Notion-user failure mode. Painful because true.
-
-**Two to avoid:**
-
-❌ *"Struggling with productivity?"* — pain too vague. Everyone says yes. Filters for nobody.
-❌ *"Tired of not making progress in your business?"* — sounds like every coach ad. Audience has built immunity.
+```
+SCRIPT: [name]
+HOOK TYPE: [Pain | Curiosity | Contrarian | etc.]
+FRAMEWORK: [The carousel structure works best with Hook-Body-CTA expanded across slides]
+AUDIENCE: [one specific person]
+OFFER: [one sentence]
 
 ---
 
-## 3. Contrarian (Myth-Busting)
+[SLIDE 1 — HOOK]
+Visual: [bold text on solid background, OR opening image with text overlay]
+Headline: "[hook line, 6-10 words, very large]"
+Subhead: "[supporting line, 5-8 words]"
+Note: This slide must work as a standalone static ad. If viewer doesn't swipe, it has to still communicate.
 
-**Mechanism:** Challenge a belief the audience holds. Tension between what they think they know and what you're saying creates a forced-attention state.
+[SLIDE 2 — PROBLEM EXPANDED]
+Visual: [image or screenshot illustrating the problem]
+Headline: "[the second-order problem]"
+Body text: "[1-2 short lines expanding the cost or scale of the problem]"
 
-**When it works:**
-- Audiences who've tried things that didn't work and are open to "I was doing it wrong"
-- Educated audiences who feel stuck
-- Markets saturated with the standard advice (where contrarian stands out)
+[SLIDE 3 — MECHANISM / STEP]
+Visual: [screenshot, diagram, or process visualization]
+Headline: "[name of the mechanism or the contrarian reframe]"
+Body text: "[1-2 lines explaining what changes]"
 
-**When it fails:**
-- When the contrarian claim has no evidence behind it
-- When the audience is too early in their journey to know the orthodoxy you're challenging
+[SLIDE 4 — OUTCOME / PROOF]
+Visual: [result screenshot, named customer photo, or specific data]
+Headline: "[the result, specific]"
+Body text: "[named customer attribution or specific data]"
 
-**Three good examples:**
-
-> *"Stop trying to grow your email list. The biggest list I ever built made me less money than my smallest one."*
-> — Directly contradicts standard "build a list" advice with a personal stake.
-
-> *"Posting every day is killing your business. Here's the math."*
-> — Pattern-interrupts the creator-ecosystem orthodoxy. Promises evidence.
-
-> *"AI automation isn't going to save you 10 hours a week. It's going to save you 2. And that's exactly why you should still build it."*
-> — Counterintuitive AND honest — undersells then justifies. Builds more trust than inflated promises.
-
-**Two to avoid:**
-
-❌ *"Everything you know about [topic] is WRONG."* — too big a claim, no specificity. Brain pattern-matches to "blowhard."
-❌ *"The gurus don't want you to know this..."* — conspiracy framing. Cheap, audiences are tired of it.
+[SLIDE 5 — CTA]
+Visual: [your offer card — workshop date, product image, or branded card]
+Headline: "[clear next step]"
+Body text: "[price, timing, what's included]"
+Visual cue: arrow icon "→" or "Swipe up" if Stories
 
 ---
 
-## 4. Pattern Interrupt (Visual or Audio Surprise)
+PRIMARY TEXT (the caption above the carousel):
+"[2-4 sentences. Front-load the hook in first 125 characters. The caption should make the user want to start swiping.]"
 
-**Mechanism:** Do something unexpected in the first frame — object flying at camera, sudden silence after music, weird camera angle, starting mid-sentence. The brain is pattern-matching the feed; violating the pattern forces conscious attention.
+HEADLINE (below the carousel, above CTA button):
+"[5-8 word version of the hook]"
 
-**When it works:**
-- Cold traffic on visual-first platforms (TikTok, Reels, Meta feed)
-- Audiences scrolling fast who need a circuit-break
-- When the interrupt connects meaningfully to the message
+CTA BUTTON: [Sign Up | Get Offer | Shop Now | Learn More]
+```
 
-**When it fails:**
-- When the interrupt is random weirdness without substance — burns trust by second 5
-- On text-first platforms (LinkedIn, email) where visual pattern matters less
+### Carousel-specific rules
 
-**Three good examples:**
+1. **Headlines on each slide.** Not just decorative — readable in 1 second.
+2. **Consistent visual style.** Same fonts, color palette, formatting across slides. Inconsistency signals amateur.
+3. **No "swipe →" on slide 1.** The viewer should want to swipe because of the content, not because you ordered them to. Save the arrow for slide 5 where it's the CTA.
+4. **Number your slides if it helps comprehension.** "1 of 5" in the corner of each slide helps viewers track. Skip if it interrupts the design.
 
-> Supplement brand opens with the product being thrown in the trash. Text overlay: *"We threw away 10,000 bottles. Here's why."* Documented hook rate: 51%. Visual contradicts category norm, forces the question.
+### Carousel pitfalls (avoid)
 
-> Creator films mid-sentence: *"...and that's the third client this month who told me they wasted $5K on a course before finding me."* No setup, no intro. Forces the viewer to fill in context, which means they're watching.
-
-> Sudden silence after upbeat music + close-up on a hand holding a phone showing one stat: *"3 hours."* Cuts to: *"That's how long it used to take. Now it takes 12 minutes."*
-
-**Two to avoid:**
-
-❌ Weird camera angle for no reason. Brain registers gimmick, not message.
-❌ Fake error sounds or "wait — stop scrolling!" — overdone, now signals "low quality."
+- **All 5 slides look the same.** Defeats the format. Each slide should add new info.
+- **All 5 slides show the product from different angles.** Same. Add new info.
+- **No CTA slide.** People who swipe to the end and find no offer have wasted time. Slide 5 must convert.
+- **Slide 1 doesn't stand alone.** "Read all 5 to understand" = nobody reads any.
+- **Cramming too much text per slide.** 1-second-readability rule. If a slide takes 4 seconds to read, cut it.
 
 ---
 
-## 5. Specific-Result / Quantitative
+## PART 2: STATIC IMAGE ADS
 
-**Mechanism:** Lead with a hard, specific number. Specificity signals honesty; round numbers signal made-up. A specific number in the first frame creates instant credibility.
+Static drives 60-70% of Meta conversions despite the hype around video. The "script" for a static is the visual hierarchy — what the eye sees in what order.
 
-**When it works:**
-- When you actually have the result
-- Skeptical audiences
-- B2B, SaaS, finance, anywhere the audience reads numbers all day
+### Format specs
 
-**When it fails:**
-- When the number is rounded ("10x'd!") — brain rejects
-- When the number is unbelievable ("$0 to $1M in 30 days") — same problem
-- When you don't have proof to back it up later in the script
+- **Aspect ratio:** 1:1 square (universal), 4:5 for feed, 9:16 for Stories
+- **Resolution:** 1080x1080 minimum
+- **Critical text size:** Headline 36-48px, subhead 24-30px, CTA 20-28px
+- **Reading pattern:** Z-pattern (top-left → top-right → bottom-left → bottom-right)
 
-**Three good examples:**
+### The 5-element formula
 
-> *"$11,847 in sales from one workshop. Here's the exact 47-minute structure."*
-> — Specific revenue, specific time, specific deliverable.
+Every high-converting static contains these 5 elements arranged in this hierarchy:
 
-> *"I've watched 312 students go through this. 89 actually shipped. Here's what made the 89 different from the 223."*
-> — Includes the failure number (223). That's what makes it believable.
+1. **Hook line** (top, largest) — 5-10 words, one of the 7 hook types
+2. **Subhead/context** (below hook, medium) — 10-20 words bridging to value
+3. **Image/demonstration** (center, dominant) — screenshot, person, before/after, annotated visual
+4. **CTA** (button or bottom-right) — one action
+5. **Proof element** (small, integrated) — testimonial line, logo, or stat
 
-> *"6 hours and 12 minutes. That's the average time clients save per week after we install this one workflow."*
-> — The 12 minutes is what sells the 6 hours.
+### Fill-in template
 
-**Two to avoid:**
-
-❌ *"DOUBLE your revenue in 30 days!"* — round numbers + round timeline = made-up.
-❌ *"Thousands of happy customers!"* — vague quantification.
-
----
-
-## 6. Story / Personal Admission
-
-**Mechanism:** First-person admission that's specific and slightly uncomfortable. Stories increase retention because the brain is wired for narrative. Vulnerability creates trust.
-
-**When it works:**
-- Almost always — most platform-agnostic hook type
-- Pairs well with every other framework as the body of the ad
-- High-trust audiences, mature markets, anyone who's seen too many ads
-
-**When it fails:**
-- When the story is too long before the payoff
-- When the story is generic ("I was struggling, then I figured it out")
-
-**Three good examples:**
-
-> *"I refused to learn Zapier for three years. Then I built this in 90 minutes. I'm furious at past me."*
-> — Admission of resistance (relatable), specific time, "furious" makes it human.
-
-> *"I lost $4,200 on my first ad campaign. Most of it in 48 hours. Here's what I'd tell my younger self."*
-> — Specific loss, specific timeframe, "tell my younger self" is permission for the viewer to learn from the mistake.
-
-> *"My first workshop had 4 people. Two were friends. One left early. I almost quit. Here's what changed."*
-> — Specific failure with a turn. Names the universal creator fear.
-
-**Two to avoid:**
-
-❌ *"Once upon a time I was a struggling entrepreneur..."* — generic story opener. Brain pattern-matches to "long boring story incoming."
-❌ *"Let me tell you about my journey..."* — "journey" is a tell that the story will be vague and self-congratulatory.
+```
+SCRIPT: [name]
+HOOK TYPE: [Pain | Curiosity | Contrarian | Specific-Result | Story | Ultra-Specific Benefit]
+FORMAT: [Meme card | Annotated screenshot | Before/After split]
+AUDIENCE: [one specific person]
+OFFER: [one sentence]
 
 ---
 
-## 7. Ultra-Specific Benefit
+VISUAL LAYOUT (top to bottom):
 
-**Mechanism:** A precise, often surprisingly small promise. Specificity matters more than size. "Save 17 minutes per client report" outperforms "save tons of time" because precision signals honesty.
+[TOP — HOOK LINE]
+Text: "[hook line, 5-10 words, bold, large]"
+Style: 36-48px, bold, high contrast
 
-**When it works:**
-- Solution-aware audiences who are evaluating options
-- Re-engaging warm leads who already know they have the problem
-- Retargeting audiences
+[UPPER MIDDLE — SUBHEAD]
+Text: "[10-20 word context line]"
+Style: 24-30px, medium weight
 
-**When it fails:**
-- Cold audiences who don't know the category yet (they need pain or curiosity first)
-- When the benefit is too small to matter to the buyer
+[CENTER — IMAGE/DEMONSTRATION]
+Image type: [Screenshot | Photo | Before/After | Annotated diagram]
+Image description: [what the image shows]
+Annotations (if any): [arrows, text overlays, callouts]
 
-**Three good examples:**
+[LOWER MIDDLE — PROOF]
+Text: "[testimonial line, stat, or social proof]"
+Style: 18-24px, lighter weight
 
-> *"Send 40 personalized client emails in 12 minutes. Without it looking automated."*
-> — Specific count, specific time, specific concern addressed.
-
-> *"Cut 2 hours of weekly admin without hiring, without learning Zapier, without paying for another tool."*
-> — Three "withouts" — each is an objection answered.
-
-> *"Get your first paying customer for your AI workflow this week. From a list of 0."*
-> — Specific outcome, specific timeline, names the starting condition.
-
-**Two to avoid:**
-
-❌ *"Skyrocket your business!"* — vague verb + vague object. Forgotten the second you read it.
-❌ *"Save time and money with AI"* — could be any product. Zero discrimination.
+[BOTTOM — CTA]
+Text: "[specific action — e.g., GET THE TEMPLATE →]"
+Style: 20-28px, bold, button-style with arrow or icon
 
 ---
 
-## Hook selection matrix (which to use when)
+PRIMARY TEXT (the caption that appears above the image in feed):
+"[2-4 sentences. Front-load the hook in the first 125 characters since that's all that shows before 'See more' on mobile. Mirror the visual but add detail.]"
 
-| Audience temperature | Best hook types |
-|---|---|
-| Cold (don't know you, don't know they have the problem) | Pain, Pattern Interrupt, Curiosity |
-| Warm cold (know they have the problem, don't know the solutions) | Contrarian, Specific-Result, Story |
-| Warm (know solutions exist, evaluating yours) | Ultra-Specific Benefit, Specific-Result, Story |
-| Hot (ready to buy, just need permission) | Ultra-Specific Benefit, Story |
+HEADLINE (the line that appears below the image, above the CTA button):
+"[5-8 word version of the hook. Different wording from the in-image headline to give two attempts.]"
 
-## Hook construction rules
+CTA BUTTON (Meta's built-in):
+[Learn More | Sign Up | Shop Now | Get Offer | Book Now]
+```
 
-1. **Front-load the value.** First five words must contain the why-keep-watching.
-2. **No "Hey/So/Today" openers.** These signal low-stakes content. The brain marks the video as skippable.
-3. **Start mid-thought when possible.** The "...and that's" opener implies a conversation already in motion.
-4. **Specificity beats superlatives.** "47 minutes" beats "fast." "$4,200" beats "a lot."
-5. **One hook per script.** Don't stack three hooks at the start — pick one and commit.
+### Three high-performing static formats
 
-## Testing rule
+#### Format A: Meme Card / Pure Text
 
-When in doubt about which hook to use, test 3 across different types. Run them for 3-5 days at $30-50/day each. The "best" hook in your judgment is often not the winner — the data tells you which segment of the audience responds. This is why the skill always produces 3 variations using 3 different hook types.
+Bold text on solid color background, minimal else. Looks like a tweet, performs like a billboard.
+
+**When to use:** Punchy direct-response. Bold claim. Audiences scrolling through visually heavy feeds (looks different = stops scroll).
+
+#### Format B: Annotated Screenshot
+
+Actual screenshot with arrows and text overlays. Looks like a tutorial, sells like an ad.
+
+**When to use:** When your offer's strongest asset is the working artifact (template, dashboard, workflow). Show it.
+
+#### Format C: Before/After Split
+
+Split-screen comparison.
+
+**When to use:** When the transformation is visually obvious. Strong for productivity, fitness, before/after of any kind.
+
+### Visual hierarchy rules (apply to every static)
+
+1. **One focal point.** Eye must know where to land. If there are 3 competing elements, the eye gives up.
+2. **High contrast.** Headline should be legible at thumbnail size. Dark text on light background or vice versa.
+3. **No clutter.** Remove anything that isn't doing work. Logos, swooshes, multiple icons — cut.
+4. **Native > polished.** UGC-looking statics outperform brand-polished statics for direct-response.
+5. **Test in feed.** Before approving, view the static at actual size in a mobile feed. If it doesn't pop at thumbnail size, the headline is too small or contrast is too low.
+
+### Common static mistakes (avoid)
+
+- Multiple competing headlines
+- Stock photo of a smiling person with a laptop
+- Logo as the focal point (you're not Nike)
+- Text overlay on busy image area (illegible)
+- Three CTAs ("Click! Buy! Learn more!")
+- All text, no visual element
+- All visual, no headline
+- Generic "limited time offer!" badges
+
+---
+
+## Pre-delivery check (applies to both formats)
+
+### Carousel check:
+- [ ] 5 slides (not 3, not 10)
+- [ ] Slide 1 stands alone as a complete ad
+- [ ] Each slide adds new information
+- [ ] One CTA, on slide 5 only
+- [ ] Consistent visual style across all slides
+- [ ] Each slide readable in 1 second
+- [ ] Specific number, name, or time on at least 2 slides
+
+### Static check:
+- [ ] Hook line is 10 words or fewer
+- [ ] Hook line is the largest text on the image
+- [ ] One CTA only
+- [ ] Image has one clear focal point
+- [ ] Specific number, name, or time appears somewhere
+- [ ] Reads at thumbnail size (test by shrinking to 200px)
+- [ ] Primary text (caption) front-loads the hook in first 125 characters
+- [ ] No banned hype words

@@ -1,215 +1,201 @@
-# Template: Static Image Ad
+# Workflow: Adapt / Iterate an Existing Script
 
-Static drives 60-70% of Meta conversions despite the hype around video. The "script" for a static is the visual hierarchy — what the eye sees in what order.
-
-## Format specs
-
-- **Aspect ratio:** 1:1 square (universal), 4:5 for feed, 9:16 for Stories
-- **Resolution:** 1080x1080 minimum
-- **Critical text size:** Headline 36-48px, subhead 24-30px, CTA 20-28px
-- **Reading pattern:** Z-pattern (top-left → top-right → bottom-left → bottom-right)
-
-## The 5-element formula
-
-Every high-converting static contains these 5 elements arranged in this hierarchy:
-
-1. **Hook line** (top, largest) — 5-10 words, one of the 7 hook types
-2. **Subhead/context** (below hook, medium) — 10-20 words bridging to value
-3. **Image/demonstration** (center, dominant) — screenshot, person, before/after, annotated visual
-4. **CTA** (button or bottom-right) — one action
-5. **Proof element** (small, integrated) — testimonial line, logo, or stat
-
-## Fill-in template
-
-```
-SCRIPT: [name]
-HOOK TYPE: [Pain | Curiosity | Contrarian | Specific-Result | Story | Ultra-Specific Benefit]
-FORMAT: [Meme card | Annotated screenshot | Before/After split]
-AUDIENCE: [one specific person]
-OFFER: [one sentence]
+When you have a script that worked (or almost worked) and need to adapt it for a new audience, platform, or offer.
 
 ---
 
-VISUAL LAYOUT (top to bottom):
+## When to use this workflow
 
-[TOP — HOOK LINE]
-Text: "[hook line, 5-10 words, bold, large]"
-Style: 36-48px, bold, high contrast
+- You have a winning script and want to adapt it for a different audience
+- A script performed well but you need to change the offer or CTA
+- You're repurposing a long-form script into a short-form version
+- You need platform-specific variations (TikTok → Reels → Shorts)
+- You want to test a different hook type while keeping the body/framework
 
-[UPPER MIDDLE — SUBHEAD]
-Text: "[10-20 word context line]"
-Style: 24-30px, medium weight
-
-[CENTER — IMAGE/DEMONSTRATION]
-Image type: [Screenshot | Photo | Before/After | Annotated diagram]
-Image description: [what the image shows]
-Annotations (if any): [arrows, text overlays, callouts]
-
-[LOWER MIDDLE — PROOF]
-Text: "[testimonial line, stat, or social proof]"
-Style: 18-24px, lighter weight
-
-[BOTTOM — CTA]
-Text: "[specific action — e.g., GET THE TEMPLATE →]"
-Style: 20-28px, bold, button-style with arrow or icon
+**Don't use this workflow when:**
+- The original script didn't work (use `diagnose.md` instead)
+- You're starting from scratch (use the format templates directly)
 
 ---
 
-PRIMARY TEXT (the caption that appears above the image in feed):
-"[2-4 sentences. Front-load the hook in the first 125 characters since that's all that shows before 'See more' on mobile. Mirror the visual but add detail.]"
+## The adaptation process
 
-HEADLINE (the line that appears below the image, above the CTA button):
-"[5-8 word version of the hook. Different wording from the in-image headline to give two attempts.]"
+### Step 1: Identify what stays and what changes
 
-CTA BUTTON (Meta's built-in):
-[Learn More | Sign Up | Shop Now | Get Offer | Book Now]
-```
+Before adapting, clarify exactly what needs to change:
 
-## Three high-performing static formats
+| Element | Stays the same | Changes |
+|---------|----------------|---------|
+| **Offer** | Same product/service | Different product/offer |
+| **Audience** | Same person type | Different person/pain point |
+| **Platform** | Same platform | Different platform specs |
+| **Length** | Same duration | Longer or shorter |
+| **Hook type** | Same hook type | Different hook angle |
+| **Framework** | Same structure | Different framework |
 
-### Format A: Meme Card / Pure Text
-
-Bold text on solid color background, minimal else. Looks like a tweet, performs like a billboard.
-
-```
-[Background: solid color, high contrast — black, yellow, or branded]
-
-[HEADLINE — top center, huge bold text]
-"I tried 9 AI courses.
-This is the one
-that finally clicked."
-
-[SUBHEAD — below, medium text]
-Live workshop Saturday | $17 | We build it together
-
-[PROOF — bottom small]
-"Built my first workflow in 2 hours" — Sarah K.
-
-[CTA — bottom right or center]
-GET THE WORKSHOP →
-```
-
-**When to use:** Punchy direct-response. Bold claim. Audiences scrolling through visually heavy feeds (looks different = stops scroll).
-
-### Format B: Annotated Screenshot
-
-Actual screenshot with arrows and text overlays. Looks like a tutorial, sells like an ad.
-
-```
-[Background: full-bleed screenshot — Notion dashboard, ChatGPT interface, Stripe revenue, etc.]
-
-[HEADLINE — top overlay, white text on dark gradient]
-"How I built a $0 client reporting system"
-
-[ANNOTATION ARROWS pointing to specific columns/elements]
-Arrow 1: "this column saves me 3 hours/week"
-Arrow 2: "auto-pulled from Stripe"
-Arrow 3: "emailed to clients Friday at 5pm"
-
-[CTA — bottom button]
-Get the template free →
-```
-
-**When to use:** When your offer's strongest asset is the working artifact (template, dashboard, workflow). Show it.
-
-### Format C: Before/After Split
-
-Split-screen comparison.
-
-```
-[Image: split-screen, vertical line down middle]
-
-[LEFT side: chaotic state]
-Photo/screenshot: messy inbox, 247 unread, color-coded chaos
-
-[RIGHT side: clean state]
-Photo/screenshot: same inbox, 12 unread, organized by client
-
-[HEADLINE — above the split, full width]
-"Same person. 14 days later."
-
-[SUBHEAD — below the split]
-The Inbox Workflow — $37 — Link in bio
-
-[CTA — bottom]
-GET THE WORKFLOW →
-```
-
-**When to use:** When the transformation is visually obvious. Strong for productivity, fitness, before/after of any kind.
-
-## Filled example (your context: workshop ad — meme card format)
-
-```
-SCRIPT: AI Workshop Static — Variation A
-HOOK TYPE: Contrarian
-FORMAT: Meme Card
-AUDIENCE: Solopreneurs who've bought AI courses they didn't finish
+Most adaptations change 1-2 elements max. Changing more than 2 means you're writing a new script, not adapting.
 
 ---
 
-[Background: matte black, slight texture]
+### Step 2: Map the original script
 
-[HEADLINE — top center, large white bold]
-"Stop buying AI courses.
-They're making you
-worse at AI."
+Read the existing script and label each section:
 
-[SUBHEAD — below in medium yellow text]
-One Saturday. One workflow. Built with me.
+```
+ORIGINAL SCRIPT: [name]
+HOOK TYPE: [what type was used]
+FRAMEWORK: [PAS / BAB / etc.]
+PLATFORM: [where it ran]
+AUDIENCE: [who it targeted]
 
-[PROOF — bottom small white]
-47 of 52 attendees built a working workflow at the last one.
-
-[CTA — bottom right yellow button with arrow]
-SAVE YOUR SEAT →
+[0:00-0:03] HOOK: [the opening line]
+[0:03-0:08] EXTEND/PROBLEM: [what came next]
+[0:08-0:20] BODY: [the main content]
+[0:20-0:28] OUTCOME: [the result or proof]
+[0:28-0:30] CTA: [the call to action]
+```
 
 ---
 
-PRIMARY TEXT (feed caption):
-"I bought 4 AI courses last year. Opened 1. Watched 2 hours of it. Never touched the others. The 'I'll learn it all then start' approach is a trap. One Saturday workshop. One specific workflow. We build it together, you ship it Sunday. $17."
+### Step 3: Apply the change
 
-HEADLINE:
-"Stop buying AI courses."
+#### ADAPTATION TYPE A: Same offer, new audience
 
-CTA BUTTON: Sign Up
+**What changes:** Hook, problem framing, and specific examples
+**What stays:** Solution, proof (if audience-agnostic), offer, CTA structure
+
+**Example:**
+- Original: Solopreneurs who've bought AI courses
+- New: Corporate managers overwhelmed by admin work
+- Keep: The same automation workflow offer
+- Change: Hook changes from "You bought 4 AI courses" to "You spent 6 hours in meetings this week and still didn't touch the client report"
+
+---
+
+#### ADAPTATION TYPE B: Same audience, new platform
+
+**What changes:** Length, aspect ratio, pacing, caption density
+**What stays:** Hook type, core message, offer
+
+**Platform adaptation guide:**
+
+| From → To | Key changes |
+|-----------|-------------|
+| TikTok → Reels | Minimal (same specs, slight tone shift) |
+| Reels → YouTube Shorts | Add :01 title card, slightly slower pacing |
+| Short video → Static | Extract hook as headline, proof as image |
+| Long → Short | Cut to hook + one proof point + CTA |
+| Short → Long | Expand proof, add second case study, add FAQ |
+
+---
+
+#### ADAPTATION TYPE C: Same script, new hook type
+
+**What changes:** First 3-8 seconds
+**What stays:** Everything else
+
+**Hook swaps:**
+- Pain → Curiosity: "You opened ChatGPT 8 times today" → "I just watched my AI draft 8 emails in 90 seconds"
+- Contrarian → Specific-Result: "Stop buying AI courses" → "$4,200 spent on courses. $0 on the one thing that worked."
+- Story → Pain: "I refused to learn Zapier for 3 years" → "It's 11pm and you're still building that workflow manually"
+
+Test 3 hook variations on the same body to isolate what's driving performance.
+
+---
+
+#### ADAPTATION TYPE D: Same hook/audience, different offer
+
+**What changes:** CTA, offer details, possibly proof section
+**What stays:** Hook, problem framing, overall structure
+
+**Example:**
+- Original CTA: "Workshop Saturday $17"
+- New CTA: "4-week cohort opens Tuesday $497"
+- Keep: Same hook about the problem
+- Change: Proof section now references cohort results instead of workshop results
+
+---
+
+### Step 4: Check what you kept vs. what you changed
+
+Before finalizing, verify:
+
+- [ ] Changed elements are actually different (not just reworded)
+- [ ] Unchanged elements still make sense with the changes
+- [ ] Hook still matches the audience's current state
+- [ ] Proof still supports the offer
+- [ ] CTA matches the offer complexity (big offer = more detail, small offer = simple CTA)
+- [ ] Length fits the platform (if platform changed)
+
+---
+
+## Common adaptation mistakes
+
+### Mistake 1: Changing too much at once
+
+If you change the audience AND the platform AND the offer, you're not adapting — you're writing new. Adaptation means changing 1-2 variables max.
+
+### Mistake 2: Keeping proof that no longer applies
+
+If you change the audience from solopreneurs to corporate managers, testimonials from solopreneurs create disconnect. Swap the proof to match the new audience.
+
+### Mistake 3: Keeping the same length when the platform changed
+
+A 60-second YouTube Short script doesn't work as a 30-second Reel. Cut to fit or extend deliberately — don't just paste and hope.
+
+### Mistake 4: Rewriting instead of adapting
+
+Adaptation is surgical: identify what changes, change only that, keep the rest. If you're starting from a blank page, you're not adapting.
+
+---
+
+## When adaptation isn't the right move
+
+**Don't adapt when:**
+
+1. **The original script bombed.** Use `diagnose.md` to figure out why first.
+2. **The new audience has a completely different pain point.** Write fresh.
+3. **The offer is fundamentally different.** (Workshop → Done-for-you service = different frameworks needed)
+4. **Platform specs are incompatible.** (10-min YouTube video → 15-sec TikTok = not an adaptation, it's a new format)
+
+---
+
+## Adaptation checklist
+
+Before delivering the adapted script:
+
+- [ ] Identified exactly what changed (1-2 elements max)
+- [ ] Hook still fits the target audience's current state
+- [ ] Proof section updated if audience or offer changed
+- [ ] Length matches platform specs if platform changed
+- [ ] CTA matches offer complexity
+- [ ] Voice checklist still passes (no "Hey," specific numbers, etc.)
+- [ ] Original high-performing elements preserved
+
+---
+
+## Example adaptation
+
+**Original script:** Short video ad for AI workshop, targeting solopreneurs
+
+```
+[0:00-0:03] "You opened ChatGPT 8 times today and closed it."
+[0:03-0:08] "Most of us don't have a prompting problem. We have a 'what do I ask' problem."
+[0:08-0:20] "I built 12 prompts. One for every weekly task. I use them every Monday."
+[0:20-0:28] "Last Sunday: 47 minutes for my entire week's content."
+[0:28-0:30] "Saturday workshop. $17. Link in bio."
 ```
 
-## Three-variation output for static
+**Adapted script:** Same offer, new audience = corporate team leads
 
-When generating 3 static variations, pick 3 different formats AND 3 different hooks:
+```
+[0:00-0:03] "Your team opened ChatGPT 47 times this week. Used it twice."
+[0:03-0:08] "They don't have a prompting problem. They have a 'we don't know what's safe to put in here' problem."
+[0:08-0:20] "I built 12 approved prompts for my team. Client work, reporting, follow-ups. Each one vetted."
+[0:20-0:28] "Last week: my team cut 11 hours of repetitive work. Same output, zero risk."
+[0:28-0:30] "Team workshop next Thursday. $17/seat for 5+. Link in bio."
+```
 
-**Variation A:** Meme Card + Contrarian hook (above)
-**Variation B:** Annotated Screenshot + Specific-Result hook
-**Variation C:** Before/After Split + Pain hook
+**What changed:** Audience (solopreneurs → team leads), pain framing ("I don't know what to ask" → "we don't know what's safe"), proof (personal time saved → team time saved)
 
-This gives the user three legitimately different creative angles to test, not three versions of the same idea.
-
-## Visual hierarchy rules (apply to every static)
-
-1. **One focal point.** Eye must know where to land. If there are 3 competing elements, the eye gives up.
-2. **High contrast.** Headline should be legible at thumbnail size. Dark text on light background or vice versa.
-3. **No clutter.** Remove anything that isn't doing work. Logos, swooshes, multiple icons — cut.
-4. **Native > polished.** UGC-looking statics outperform brand-polished statics for direct-response.
-5. **Test in feed.** Before approving, view the static at actual size in a mobile feed. If it doesn't pop at thumbnail size, the headline is too small or contrast is too low.
-
-## Common static mistakes (avoid)
-
-- Multiple competing headlines
-- Stock photo of a smiling person with a laptop
-- Logo as the focal point (you're not Nike)
-- Text overlay on busy image area (illegible)
-- Three CTAs ("Click! Buy! Learn more!")
-- All text, no visual element
-- All visual, no headline
-- Generic "limited time offer!" badges
-
-## Pre-delivery check
-
-- [ ] Hook line is 10 words or fewer
-- [ ] Hook line is the largest text on the image
-- [ ] One CTA only
-- [ ] Image has one clear focal point
-- [ ] Specific number, name, or time appears somewhere
-- [ ] Reads at thumbnail size (test by shrinking to 200px and checking legibility)
-- [ ] Primary text (caption) front-loads the hook in first 125 characters
-- [ ] No banned hype words
+**What stayed:** Hook type (pain), framework (PAS), offer structure (workshop), length, platform

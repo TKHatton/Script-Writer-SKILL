@@ -1,226 +1,223 @@
-# Template: Video Sales Letter (VSL)
+# Workflow: Diagnose Why a Script Isn't Converting
 
-Long-form persuasive video that does the work of a sales page. Two flavors based on price point and audience temperature.
-
-## When to use VSLs
-
-| Offer price | Audience | VSL type |
-|---|---|---|
-| $17-$297 | Warm (already in your world) | Short VSL (3-6 min) |
-| $497+ | Cold or mixed | Long VSL (8-15 min) |
-| $5K+ | High-ticket / consulting | Long VSL + booking call |
-
-**Don't use a VSL when:** Quick impulse purchases under $50 (a 60-second video on the landing page often outperforms). The decision is too small to justify 5+ minutes.
-
-## SHORT VSL (3-6 minutes)
-
-For warm traffic + low-to-mid ticket. Tight, punchy, no fat.
-
-### Structure
-
-```
-0:00-0:15   Pattern interrupt / Hook
-0:15-0:45   Promise (what they'll get from this video)
-0:45-1:30   Problem (vivid, named)
-1:30-2:30   Solution introduction
-2:30-3:30   Proof (1-2 strong case studies)
-3:30-4:30   The offer + risk reversal
-4:30-5:00   Specific CTA
-```
-
-### Fill-in template (short VSL)
-
-```
-SCRIPT: [name]
-LENGTH: ~4-5 minutes
-HOOK TYPE: [usually Pattern Interrupt or Specific-Result for VSL]
-AUDIENCE: [one specific person]
-OFFER: [one sentence with price and time bound]
+When you have a script that's running but not performing — low CTR, high drop-off, weak conversion.
 
 ---
 
-[0:00-0:15] PATTERN INTERRUPT / HOOK
-Visual: [unusual opening — bold statement on screen, you walking into frame mid-action, surprising visual]
-Verbal: "[opening line — specific, mid-thought, attention-grabbing]"
+## When to use this workflow
 
-[0:15-0:45] PROMISE
-Verbal: "In the next 4 minutes I'm going to show you [specific outcome]. If you [audience descriptor], stay with me — this changes the math."
-Visual: [supporting B-roll, screen visual, or your work environment]
+- Your ad is live but CTR is below 1% (for paid) or hook rate below 25% (for organic)
+- People are watching but not clicking
+- High engagement (likes/comments) but no conversions
+- Your A/B test showed a winner but it's still underperforming
 
-[0:45-1:30] PROBLEM
-Verbal: "Here's where most [audience] are right now: [specific, vivid problem]. And the second-order cost is [the cost they don't see — time, money, opportunity]."
-Visual: [B-roll showing the problem state — messy desk, late night work, etc.]
-
-[1:30-2:30] SOLUTION INTRODUCTION
-Verbal: "What I built / discovered is [the solution in one sentence]. The way it works is [mechanism in 2-3 sentences]."
-Visual: [screen recording or demonstration of the solution]
-
-[2:30-3:30] PROOF
-Verbal: "Here's [specific customer name]. [Their specific result.] And here's [second customer]. [Their result.] Last 90 days we've seen [aggregate stat]."
-Visual: [testimonial clips, screenshot of results, named customer photos]
-
-[3:30-4:30] THE OFFER + RISK REVERSAL
-Verbal: "If you want this, here's exactly what you get: [list 3-5 components, each named with brief value]. The price is [specific number]. And here's my guarantee: [specific terms]."
-Visual: [offer slide / product mockup, then guarantee badge]
-
-[4:30-5:00] SPECIFIC CTA
-Verbal: "Click the link below. Pick your option. I'll see you on the inside."
-Visual: [arrow pointing to button, button visible on screen, URL displayed]
-On-screen text: [the URL or button label]
-```
-
-### Filled short VSL example
-
-```
-SCRIPT: AI Workflow Workshop — Short VSL
-LENGTH: 4:30
-HOOK TYPE: Specific-Result
-AUDIENCE: Solopreneurs who've spent money on AI tools/courses without shipping
-OFFER: Live workshop Saturday $17 — ship one working AI workflow by Sunday.
+**Don't use this workflow when:**
+- The script hasn't run yet (you need data first)
+- You want to adapt a winning script (use `adapt.md`)
 
 ---
 
-[0:00-0:15]
-Visual: You at desk, looking at camera. Behind you, monitor shows a dashboard updating in real-time.
-Verbal: "I just watched my workflow draft 8 client emails in 90 seconds. Last year that would've taken me 4 hours. I'm going to show you exactly how I built this — and how you can build yours by Sunday."
+## The diagnostic process
 
-[0:15-0:45]
-Verbal: "I'm not a developer. I haven't taken a coding course. The whole thing cost $0 to set up. In the next 4 minutes I'll show you the three pieces that make it work — and how to get yours running this weekend."
-Visual: Cut to overhead shot of a printed workflow diagram on the desk.
+### Step 1: Gather the data
 
-[0:45-1:30]
-Verbal: "If you're like most solopreneurs I work with, you've already bought 2-4 AI courses. You've watched maybe 20% of them. You've got a folder full of prompts you saved 'for later.' And you still haven't shipped a single working workflow. That's not a discipline problem — that's a 'where do I start' problem. And every week you don't start is another week of doing manually what could be automated."
-Visual: Quick montage — Course modules locked, prompts in a folder, calendar full of repetitive tasks.
+Before diagnosing, collect:
 
-[1:30-2:30]
-Verbal: "The fix is stupidly simple. Pick one workflow you do every week. Build it once with me. Ship it. Then build the next one. That's the whole method. On Saturday at 10am we're going to do this together — live — and you'll leave with a working workflow you can use Monday morning."
-Visual: Screen recording showing a workflow being built in real time — 30-second timelapse.
+- **Hook rate / 3-second retention** — what % made it past the first 3 seconds?
+- **CTR (click-through rate)** — what % clicked the CTA?
+- **Conversion rate** — what % who clicked actually bought/signed up?
+- **Drop-off points** — where do people leave? (0-3s, 3-10s, 10-20s, etc.)
+- **Comments / DMs** — what are people saying or asking?
 
-[2:30-3:30]
-Verbal: "Last workshop, 52 people showed up. 47 of them shipped a working workflow within 7 days. Sarah K., a bookkeeper, built a client reporting automation that saved her 11 hours her first week. Marcus T. built an email triage workflow that cut his inbox time by 70%. These are real people, not paid testimonials."
-Visual: Photos and short clips of named customers, screenshots of their results.
-
-[3:30-4:30]
-Verbal: "Here's what you get when you join Saturday: the live 90-minute workshop where we build together, the 12 prompt templates I use every week, lifetime access to the recording, and a 30-day Slack community to keep building with the group. Total cost: $17. Guarantee: if you don't ship a working workflow within 14 days, I'll refund you and stay on a call with you until you do."
-Visual: Offer slide listing components. Then a guarantee badge.
-
-[4:30-5:00]
-Verbal: "Click the link below. Saturday, 10am Eastern. $17. I'll see you on the inside."
-Visual: Link visible on screen, URL displayed prominently.
-On-screen text: "SAT 10AM ET | $17 | [URL]"
-```
+If you don't have this data, you can't diagnose. Run the script for at least 500 views (organic) or $50 spent (paid) before diagnosing.
 
 ---
 
-## LONG VSL (8-15 minutes)
+### Step 2: Identify the failure point
 
-For cold traffic + higher ticket ($497+). More room to build trust, agitate the problem, and overcome objections.
+Scripts fail at one of 5 places. Identify where yours fails:
 
-### Structure (10-part)
-
-```
-0:00-0:30    1. Pattern interrupt / Shocking statement
-0:30-1:30    2. Promise (what they'll learn)
-1:30-3:00    3. Problem (in vivid detail)
-3:00-4:30    4. Agitate (the cost of doing nothing)
-4:30-6:30    5. Solution introduction (your product, framed as inevitable)
-6:30-9:00    6. Proof (multiple case studies, data, your own results)
-9:00-10:30   7. The offer (what's included, price, bonuses)
-10:30-11:30  8. Risk reversal (guarantee)
-11:30-12:30  9. Call to action (specific)
-12:30-15:00  10. FAQ / objection handling
-```
-
-### Fill-in template (long VSL)
-
-```
-SCRIPT: [name]
-LENGTH: ~10-12 minutes
-HOOK TYPE: [Pattern Interrupt + Story usually best for long VSL]
-AUDIENCE: [one specific person]
-OFFER: [one sentence with price]
+| Metric | Benchmark | If below benchmark... |
+|--------|-----------|----------------------|
+| **Hook rate** (% past 3 sec) | 25%+ organic, 15%+ paid | Problem: Hook |
+| **Hold rate** (% past 15 sec) | 40%+ of those who passed hook | Problem: Body/Proof |
+| **CTR** (% who clicked) | 2%+ paid, 5%+ organic | Problem: CTA or offer clarity |
+| **Conversion rate** (% who bought after click) | 5%+ warm, 1%+ cold | Problem: Landing page or offer mismatch |
+| **Engagement but no clicks** | High likes/comments, low CTR | Problem: Entertainment > urgency |
 
 ---
 
-[0:00-0:30] PATTERN INTERRUPT
-Verbal: "[Shocking statement, surprising data, or vivid moment that contradicts category expectation]"
-Visual: [unexpected opening — not a talking head intro]
+### Step 3: Diagnose the specific problem
 
-[0:30-1:30] PROMISE
-Verbal: "In the next 10 minutes I'm going to show you [the big promise]. If [audience descriptor], stick with me — this changes everything about [their problem domain]."
-Tease the offer: "By the end I'll also show you exactly how to get [the outcome] starting this week."
+#### PROBLEM 1: Low hook rate (people leave in first 3 seconds)
 
-[1:30-3:00] PROBLEM (vivid)
-Verbal: Paint the current reality in detail. Specific, named pain points. Use second-person ("you") throughout.
-Visual: B-roll, supporting visuals.
+**Why it happens:**
+- Hook doesn't match audience's current problem
+- Hook is too vague or generic
+- Visual doesn't pattern-interrupt
+- Opens with "Hey guys" or "In this video"
 
-[3:00-4:30] AGITATE (cost of doing nothing)
-Verbal: "And here's what most people don't realize. If you don't fix this, [first-order cost]. But the real cost is [second-order cost — opportunity cost, compounding cost, identity cost]. Multiply that by [time period] and you're looking at [total cost]."
-Visual: Math on screen, or stark imagery showing the future state of inaction.
+**How to fix:**
+- Test 3 different hook types on the same body (Pain, Curiosity, Contrarian)
+- Start mid-thought, not with greeting
+- Use specific number/time/name in first 3 seconds
+- Change the visual: close-up face, shocking moment, or unexpected B-roll
 
-[4:30-6:30] SOLUTION INTRODUCTION
-Verbal: "What I want to show you is [the solution]. It works because [mechanism]. And it's different from what you've tried because [the differentiator]."
-Visual: Demonstration of the solution. Screen recording or product walkthrough.
-
-[6:30-9:00] PROOF
-Verbal: "Here's [Customer 1]. [Story + specific result.] Here's [Customer 2]. [Story + specific result.] Here's [Customer 3]. [Story + specific result.] And here's the aggregate: [stat across all customers]."
-Visual: Multiple testimonials, screenshots of results, named customer photos.
-
-[9:00-10:30] THE OFFER
-Verbal: "When you join [program name], here's what you get:" Then list 5-7 components, each with named value:
-- Component 1: [value]
-- Component 2: [value]
-- Component 3: [value]
-- Component 4: [value]
-- Component 5: [value]
-"Total value: $____. Today's investment: $____."
-
-[10:30-11:30] RISK REVERSAL
-Verbal: "Here's my guarantee: [specific terms — 30-day money back, results guarantee, or something stronger]. The reason I can offer this is [reason that signals confidence]."
-
-[11:30-12:30] CALL TO ACTION
-Verbal: "Click the button below. Choose your option. I'll see you on the inside."
-Specific. Repeat 2-3 times.
-
-[12:30-15:00] FAQ
-Take 3-5 most common objections and answer them on-camera:
-- "What if I'm a beginner?"
-- "How long until I see results?"
-- "How is this different from [competitor]?"
-- "What if I can't make the live sessions?"
-- "What if it doesn't work for me?"
-Confident, specific answers each time.
-```
+**Red flags:**
+- Hook opens with "So today I want to talk about..."
+- Hook has no specific number or name
+- Visual is you sitting at desk talking (feed blindness)
 
 ---
 
-## VSL-specific rules
+#### PROBLEM 2: Hook works but body loses them (high drop at 8-15 seconds)
 
-1. **Cut tightly.** Modern VSLs are 30% shorter than 2018-era VSLs. No fat.
-2. **Show, don't tell.** Every claim should have a visual element backing it. Screen recordings beat talking heads.
-3. **Captions on.** Some viewers will skim. Captions let them follow.
-4. **One CTA.** Same link, same offer, repeated. Don't fork the decision.
-5. **Specific over big.** "47 of 52 students" beats "thousands of students." Use the most specific number you can defend.
-6. **Don't apologize for length.** Don't say "this is a long video but stick with me." If you're worth watching, prove it; don't beg.
+**Why it happens:**
+- Body doesn't deliver on hook's promise
+- Too much filler / no new information
+- Proof section is vague or unbelievable
+- Pacing is too slow
 
-## VSL pitfalls (avoid)
+**How to fix:**
+- Cut everything between hook and proof
+- Add specific customer name + specific result in body
+- Show don't tell: screen recording beats talking head
+- Cut pauses, speed up pacing
 
-- **Long credibility intro.** Cuts retention. Stick to 30 sec max even in long VSL.
-- **Vague proof.** "Thousands of happy customers" — meaningless. Name names, show screenshots.
-- **Stacked unrealistic bonuses.** When viewers see "lifetime access — $9,999 value!" tied to a $97 product, trust collapses.
-- **Buried CTA.** CTA appears only in last 30 seconds — viewers who decided at minute 5 have already left.
-- **Multiple price options without anchoring.** "$97 or $297 or $697" without an anchor confuses. Pick one main option + maybe one upgrade.
+**Red flags:**
+- You're explaining context instead of proving value
+- No specific numbers in body ("I helped so many people" instead of "47 of 52 shipped")
+- Talking about what you'll show instead of showing it
 
-## Pre-delivery check
+---
 
-- [ ] Opens with pattern interrupt (not "Hi, I'm...")
-- [ ] Promise stated within first 60 seconds
-- [ ] Problem painted vividly with second-person voice
-- [ ] Agitate phase included (not just problem)
-- [ ] At least 2 named customer case studies
-- [ ] Specific value attached to each offer component
-- [ ] Anchored price (value > price stated explicitly)
-- [ ] Specific guarantee (not "satisfaction guaranteed")
-- [ ] One CTA, repeated 2-3 times
-- [ ] FAQ section for long VSL (not short)
-- [ ] Total length matches format (3-6 short / 8-15 long)
+#### PROBLEM 3: They watch but don't click (low CTR)
+
+**Why it happens:**
+- No clear CTA or CTA is buried
+- Offer isn't compelling enough
+- Viewer doesn't know what happens when they click
+- The script entertained but didn't create urgency
+
+**How to fix:**
+- State CTA at 0:20 AND 0:28 (repeat)
+- Add "what you get" before CTA: "Saturday workshop, $17, 12 templates"
+- Use action verb: "Click below" not "Link in bio if you want"
+- Add light urgency if real: "Saturday" (specific time) or "10 spots" (real scarcity)
+
+**Red flags:**
+- CTA is "link in bio" with no context of what they're getting
+- Offer mentioned once, at the very end
+- No price stated (if it's a paid offer)
+- "If you want to learn more..." (weak, conditional CTA)
+
+---
+
+#### PROBLEM 4: They click but don't convert (landing page problem)
+
+**Why it happens:**
+- Mismatch between ad and landing page
+- Landing page asks for too much too soon
+- Price is higher than ad suggested
+- Landing page is slow/broken
+
+**How to fix:**
+- Match landing page headline to ad hook
+- If ad says "$17 workshop," landing page must say "$17 workshop" immediately
+- Remove unnecessary form fields (name + email is enough for most)
+- Test landing page speed (under 2 seconds load time)
+
+**Red flags:**
+- Ad talks about a workshop, landing page says "book a call"
+- Ad says "$17," landing page says "starting at $17" or hides price
+- Landing page has 8 form fields
+- Landing page is generic / doesn't reference the ad
+
+---
+
+#### PROBLEM 5: High engagement but low conversion (entertainment problem)
+
+**Why it happens:**
+- The script is interesting but doesn't create urgency
+- People save it "for later" (which means never)
+- Emotional payoff happened IN the ad (no reason to click)
+- Audience is wrong (curiosity-seekers, not buyers)
+
+**How to fix:**
+- Shift from entertainment to education + application
+- Add a "gap" — show the result but not the full method (method is behind the click)
+- Reframe CTA: not "learn more" but "get the template" or "join Saturday"
+- Retarget engagers with a direct-offer ad (they're warm now)
+
+**Red flags:**
+- Ad tells a full story with satisfying resolution (no reason to click)
+- Comments say "this is so true!" but no one asks how to get it
+- High saves, low clicks (saving = procrastinating)
+
+---
+
+## The 80/20 fixes (try these first)
+
+Before rewriting the whole script, test these high-leverage fixes:
+
+1. **Swap the hook.** Keep body/CTA, test 3 new hooks. (Fixes 60% of failures)
+2. **Cut 30%.** Remove filler, tighten pacing. (Fixes 20% of failures)
+3. **Repeat CTA.** State it twice, at 0:20 and 0:28. (Fixes 10% of failures)
+4. **Add specific number.** Replace "I helped a lot of people" with "47 of 52 shipped." (Fixes 10% of failures)
+
+---
+
+## Diagnostic checklist
+
+Run through this before declaring the script "broken":
+
+- [ ] Hook rate is below 25% (if yes, problem is hook)
+- [ ] Hold rate drops after 8 seconds (if yes, problem is body/proof)
+- [ ] CTR is below 2% (if yes, problem is CTA or offer clarity)
+- [ ] Conversion rate is below 1% (if yes, problem is landing page mismatch)
+- [ ] High engagement, low clicks (if yes, problem is urgency/gap)
+- [ ] Tested the 80/20 fixes above before rewriting
+- [ ] Ran script for at least 500 views / $50 before diagnosing
+
+---
+
+## When to kill the script vs. fix it
+
+**Fix it when:**
+- Hook rate is decent (15%+) but CTR is weak → CTA problem, fixable
+- One section works, another doesn't → surgical fix
+- Engagement signals interest but no urgency → add gap/urgency
+
+**Kill it when:**
+- Hook rate is under 10% after testing 3 hook variations → wrong audience or offer
+- Comments show confusion ("What is this about?") → unclear value prop
+- You've tested 5+ variations with no improvement → offer problem, not script problem
+
+---
+
+## Example diagnosis
+
+**Script:** Short video ad for AI workshop, $17
+
+**Data after $100 spend:**
+- Hook rate: 18% (decent)
+- Hold rate: 45% (good)
+- CTR: 0.8% (bad)
+- Conversion rate: 3% (decent once they click)
+
+**Diagnosis:** Problem is CTA. People watch but don't click.
+
+**Current CTA:**
+```
+[0:28-0:30] "Link in bio if you're interested."
+```
+
+**Issue:** Weak, vague, conditional
+
+**Fix:**
+```
+[0:20-0:25] "Saturday 10am ET. $17. You'll build one workflow with me live."
+[0:25-0:30] "Click the link below. I'll see you Saturday."
+```
+
+**Result after fix:** CTR jumped to 2.4%. Same hook, same body, better CTA clarity.

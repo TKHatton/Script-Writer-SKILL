@@ -18,28 +18,31 @@ Hand it your offer and audience. It handles the rest.
 
 ```
 script-writer/
-├── SKILL.md                         ← Load this to activate the skill
-├── README.md                        ← This file
+├── SKILL.md                              ← Load this to activate the skill
+├── README.md                             ← This file
 ├── references/
-│   ├── anti_patterns.md             ← What to avoid in script writing
-│   ├── formats.md                   ← Format specifications and guidelines
-│   ├── good_examples.md             ← Examples of effective scripts
-│   ├── hooks.md                     ← Hook types with examples and when to use each
-│   ├── psychology.md                ← Psychological principles for persuasive copy
-│   └── voice.md                     ← Voice and tone guidance
+│   ├── anti_patterns.md                  ← Manipulation tactics to avoid
+│   ├── formats.md                        ← Frameworks: PAS, AIDA, BAB, 4Ps, etc.
+│   ├── hooks.md                          ← 12 hook types library with examples
+│   ├── psychology.md                     ← Persuasion psychology principles
+│   └── voice.md                          ← Voice patterns, banned words, checklist
 ├── workflows/
-│   ├── adapt.md                     ← Workflow for adapting existing scripts
-│   ├── diagnose.md                  ← Workflow for diagnosing script issues
-│   └── new_script.md                ← Workflow for creating new scripts
+│   ├── adapt.md                          ← Adapt/iterate existing scripts
+│   └── diagnose.md                       ← Diagnose why scripts aren't converting
 ├── formats/
-│   ├── carousel.md                  ← Carousel post format specs
-│   ├── email.md                     ← Email script format specs
-│   ├── short_video_ad.md            ← Short-form video ad specs
-│   ├── vsl.md                       ← Video sales letter format specs
-│   ├── webinar.md                   ← Webinar script format specs
-│   └── youtube_longform.md          ← Long-form YouTube video specs
-└── templates/
-    └── brand_voice_template.md      ← Fill this in once — applies to every script
+│   ├── carousel.md                       ← Carousel & static image ad templates
+│   ├── email.md                          ← Email sequence templates
+│   ├── short_video_ad.md                 ← Short-form video (TikTok, Reels, Shorts)
+│   └── vsl.md                            ← Video sales letter templates
+├── templates/
+│   ├── audience_profile_template.md      ← Define your ICP once
+│   ├── brand_voice_template.md           ← Define your voice once
+│   ├── webinar_workshop.md               ← 45-90 min webinar/workshop template
+│   └── youtube_long-form.md              ← 5-15 min YouTube template
+└── examples/
+    ├── good_examples.md                  ← Concrete reference examples
+    └── signal-structure/
+        └── signal_structure_ad_scripts.md ← Real ad scripts example
 ```
 
 ---

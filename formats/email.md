@@ -1,231 +1,345 @@
-# Conversion Psychology Principles
+# Template: Email Sequences
 
-The mechanisms underlying every framework and hook. When you understand *why* a technique works, you can adapt it to new situations the templates don't cover. Read this when you're debugging a script that's not converting and you don't know why.
+Email is the highest-ROI channel for most digital product businesses. Warm lists convert at 10%+. Paid social converts at <1%. The economics aren't close.
 
-## The four jobs of every script
+## Format specs
 
-Every script — ad, video, webinar, static, VSL — is trying to do four things in sequence:
+- **Subject line:** 30-50 characters (mobile cutoff). Front-load the hook.
+- **Preview text:** 35-90 characters. Treat as second headline.
+- **Body length:** 50-300 words promotional, longer for nurture/story
+- **CTA:** One link, repeated 2-3 times for longer emails
+- **Personal "from" name:** First name only ("Sarah") outperforms branded sender ("Sarah from Acme")
 
-1. **Earn the next second.** Hook rate (% who pass 3 sec) is the leading indicator. If hook rate is low, fix the hook before anything else.
-2. **Hold attention.** Pattern interrupts every 5-10 seconds (visual change, statement reversal, micro-payoff). Without these, retention curves crash.
-3. **Move them.** Build a belief shift. By the end of the script, the viewer must believe something they didn't believe at the start.
-4. **Ask.** One specific action, repeated clearly.
+## Three sequence types
 
-If any of the four is missing or weak, the whole script underperforms. Use the diagnostic in `workflows/diagnose.md` to identify which job is broken based on the metrics.
+This template covers the three most useful sequences:
 
----
-
-## Principle 1: Specificity is the entire game
-
-Specific numbers feel earned; round numbers feel made up. "Increased productivity by 47%" outperforms "dramatically increased productivity" even when 47% sounds modest. The brain reads precision as evidence.
-
-**Why it works:** Vague claims are easy to make up. Specific claims are hard to fake. The brain has learned this asymmetry over years of seeing ads and uses precision as a credibility heuristic.
-
-**How to apply:** For every claim in your script, ask: "Can I make this more specific?" "We help businesses grow" → "We help SaaS companies under $5M ARR add 30+ qualified demos per month." Always go specific until the claim is concrete enough to be falsifiable.
+1. **Welcome sequence** (5-7 emails, 7-10 days) — when someone joins your list
+2. **Launch sequence** (3-5 emails, 3-7 days) — when you're opening a cart
+3. **Weekly nurture** (1 email/week, indefinite) — ongoing relationship
 
 ---
 
-## Principle 2: Loss aversion is ~2x stronger than gain motivation
+## SEQUENCE 1: Welcome (5-7 emails)
 
-People work harder to avoid losing $100 than to gain $100. This is foundational to direct-response.
+The most important sequence in your business. First emails set the relationship.
 
-**Why it works:** Evolutionary. The cost of missing food was lower than the cost of being eaten. Loss-avoidance is wired deeper than gain-seeking.
+### Email 1 — Deliver the lead magnet (Day 0, immediately)
 
-**How to apply:**
-- For cold traffic: lead with pain (what they're losing now) over benefit (what they'd gain).
-- "Stop wasting 6 hours a week on reports" outperforms "Save 6 hours a week on reports."
-- In PAS framework, the Agitate step is loss aversion at work — naming the cost of doing nothing.
+```
+Subject: Here's [the thing they signed up for]
+Preview: Plus a quick story about why this matters
 
-**Exception:** For warm/hot traffic that's already past the pain phase, benefit-led can outperform. They've already accepted the pain; now they want the upside.
+Hey [first name if you have it, otherwise nothing],
 
----
+Here's [the lead magnet]: [LINK]
 
-## Principle 3: Social proof hierarchy
+Quick context on why this matters:
 
-You saying you're good = ad copy. Someone else saying you're good = evidence. The asymmetry is enormous. One specific testimonial outperforms paragraphs of self-praise.
+[2-3 sentence story about the problem this solves. Specific, named, vivid.]
 
-**Hierarchy, strongest to weakest:**
+If [the result] sounds useful, you're in the right place. I'll send you 3-4 more emails over the next week with [what you'll send].
 
-1. **Measurable result from a named buyer with photo** — "Sarah K., bookkeeper, went from 11 hrs/wk to 90 minutes. [photo]"
-2. **Testimonial from named buyer** — quoted, with name
-3. **Testimonial from anonymous buyer** — quoted, no name
-4. **Screenshots of DMs/comments** — raw, ungrammatical = more credible
-5. **Logos of customers** — recognizable names dramatically increase trust
-6. **Follower counts and badges** — weakest, but better than nothing
+If it's not for you, the unsubscribe is at the bottom — no hard feelings.
 
-**How to apply:** Use the highest level of proof you have. If you have a measurable named result, lead with it. Don't substitute follower counts for testimonials when you have testimonials.
+Talk tomorrow,
+[Your first name]
 
----
+P.S. [One sentence teaser for tomorrow's email — opens a loop]
+```
 
-## Principle 4: Risk reversal creates conversion
+### Email 2 — Story (Day 1)
 
-Every buying decision contains a small fear: *what if this doesn't work for me?* Aggressive guarantees eliminate that fear up front.
+```
+Subject: [Hook — specific moment, not a topic]
+Preview: [Open loop or second-line hook]
 
-**Documented effect:** A 30-day money-back guarantee typically increases conversions 20-30% and refund rates by 2-3 percentage points. Net positive every time.
+Hey,
 
-**Why it works:** Shifts perceived risk from buyer to seller. Signals confidence in the product.
+[Open with a specific moment — yours or a customer's. Not "Once upon a time," more like "Last Tuesday at 11pm..."]
 
-**How to apply:**
-- For low-ticket ($17-$97): liberal guarantee, no questions
-- For mid-ticket ($297-$997): clear guarantee, simple conditions
-- For high-ticket ($1000+): results-based guarantee, longer window
-- Never use "all sales final" — signals worry about quality
+[3-4 paragraphs of story. Specific. Vivid. Has a turn.]
 
-**Anti-pattern:** Conditional guarantees ("Refund only if you complete all modules and prove you implemented everything") feel like traps. Either guarantee or don't.
+[The lesson — but don't moralize. Let the story carry it.]
 
----
+If you want to [the outcome the story implies], here's [the thing you offered as the lead magnet]: [LINK]
 
-## Principle 5: Curiosity gaps create forced attention
+Talk soon,
+[First name]
+```
 
-The brain hates open loops and is compelled to close them. This is why curiosity hooks work — and why "you won't believe what happens next" became a meme: overuse trained audiences to recognize and dismiss the format.
+### Email 3 — Tactical value (Day 3, no pitch)
 
-**Why it works:** Curiosity is a survival mechanism. Incomplete information could be a threat or opportunity, and the brain wants resolution.
+```
+Subject: [Specific tactic, named]
+Preview: [What they'll get from this email]
 
-**How to apply:**
-- Open a loop in the first 3-5 seconds of the script
-- Resolve it by the end (broken promises burn trust)
-- Make the gap specific, not generic ("the reason is going to make every solo operator feel scammed" beats "you won't believe this")
+Hey,
 
----
+Quick one today. Here's [the tactic] you can use this week:
 
-## Principle 6: The single-action principle
+[Step 1: specific, actionable, no fluff]
+[Step 2: specific, actionable]
+[Step 3: specific, actionable]
 
-Every landing page, ad, or script should have exactly one decision to make. Multiple CTAs lower conversion across all of them by fragmenting attention.
+Try it. Tell me how it goes — reply to this email.
 
-**Why it works:** Cognitive load. Two decisions take more than 2x the mental energy of one. Most viewers won't pay that cost and will leave entirely.
+[First name]
 
-**How to apply:**
-- One CTA per script
-- The CTA can repeat ("Sign up here. Sign up here. Sign up here.") — same CTA, multiple placements
-- Don't pair "buy now" with "or join the newsletter" with "or follow me" — pick one
+P.S. [Something specific. Not a pitch.]
+```
 
-**Why "follow on social" + "buy the course" both feel necessary:** They're not. Make one offer per script. Make different scripts for different CTAs.
+### Email 4 — Soft offer (Day 5)
 
----
+```
+Subject: [Tease the offer without selling]
+Preview: [Specific outcome or specific person who got the result]
 
-## Principle 7: Anchoring (price + value perception)
+Hey,
 
-People judge price by comparison, not in isolation. The brain doesn't compute "$497 is X% of my income" — it compares "$497" to a reference point you provide.
+[Open with a customer story or a specific result.]
 
-**Why it works:** All judgments are relative. The brain takes the easy path of comparing to whatever's nearby.
+[2-3 paragraphs. The story does the selling. Don't pitch in the body.]
 
-**How to apply:**
-- The Stack (Perfect Webinar) explicitly anchors high before revealing low — "$2,700 value, today's price $497"
-- Comparison anchors work: "Less than one hour of a consultant's time"
-- Three-tier pricing makes the middle tier feel reasonable: $97 / $497 / $1997 — most people pick the middle
-- If you don't provide an anchor, the audience defaults to "free" as their reference point, and any price looks expensive
+If you want to go deeper, here's [the workshop / mini-course / product]: [LINK]
 
----
+It's [specific date or available now]. Costs [specific price]. You'll [specific outcome].
 
-## Principle 8: Reciprocity (give before you ask)
+That's it. No pressure. The story above is the pitch — if it resonated, click. If not, you'll get tomorrow's email anyway.
 
-Giving value before asking for anything creates psychological obligation. This is the basis of lead magnets, free content, and value-first content marketing.
+[First name]
+```
 
-**Why it works:** Social wiring. We're built to return favors. Giving creates an open loop the receiver wants to close.
+### Email 5 — Direct offer with social proof (Day 7)
 
-**How to apply:**
-- The lead magnet must be embarrassingly useful — over-deliver, don't under-deliver
-- Free content should be free without strings ("here's value, no pitch")
-- The pitch comes later, when reciprocity has been built
-- Don't ask for the sale on the same touchpoint as the first value delivery
+```
+Subject: [Specific result, specific person, or specific outcome]
+Preview: [The proof — number, time, named]
 
-**Anti-pattern:** Bait-and-switch lead magnets (free thing is actually mostly an upsell pitch) destroy reciprocity instead of building it. The free thing has to actually be valuable.
+Hey,
 
----
+[Lead with a specific case study. One customer, one specific result, named.]
 
-## Principle 9: Pattern interrupt = forced attention
+[2-3 paragraphs unpacking the case study. What they did. What changed.]
 
-The brain is constantly pattern-matching the feed to decide what to skip. Anything that violates the pattern forces conscious attention.
+If you want similar, here's [the offer]: [LINK]
 
-**Why it works:** Cognitive efficiency. The brain offloads as much as possible to autopilot; unusual stimuli require conscious processing.
+[Stack of what they get — 3-5 components, briefly.]
 
-**How to apply:**
-- Visual: unusual angle, sudden movement, object appearing
-- Audio: sudden silence, voice change, mid-sentence start
-- Verbal: contrarian statement that contradicts category norms
-- Structural: starting at the end, asking a question first
+[Specific guarantee.]
 
-**Don't:** Pattern interrupt without payoff. Random weirdness without substance burns trust fast.
+[Specific deadline if applicable.]
 
----
+If this isn't for you, no problem. I'll send a weekly email going forward — sometimes free value, sometimes offers. Reply STOP if you'd rather unsubscribe.
 
-## Principle 10: Trust accumulates, then enables the sale
+[First name]
+```
 
-Sales happen at the end of a trust accumulation curve, not a single touchpoint. The 7-touch rule (B2B average) and the 11-touch rule (high-ticket) both reflect this.
+### Email 6 — Last call (Day 9, only if there's a deadline)
 
-**Why it works:** Trust is built through consistency across touchpoints. One impressive touchpoint isn't enough to overcome the risk of buying from a stranger.
+```
+Subject: Last call: [specific thing closing]
+Preview: [Specific time it closes]
 
-**How to apply:**
-- Run multiple ads, not one
-- Use weekly content (webinars, emails) to deepen trust over time
-- The ad's job is often to start the trust accumulation, not finish it
-- Direct-buy ads (cold traffic → product page) underperform multi-step funnels (cold → lead magnet → email → product) for everyone except established brands
+Hey,
 
----
+Quick note: [specific thing] closes [specific time].
 
-## Principle 11: Micro-commitments (the modern funnel)
+[1-2 sentence reminder of what it is and why it matters.]
 
-Cold traffic doesn't convert directly. Typical landing page conversion is around 6.6% across industries. The way to raise that is by breaking the big decision into smaller commitments.
+If you want in: [LINK]
 
-**Why it works:** Each small yes makes the next yes easier. Self-perception theory — once someone identifies as "the kind of person who signed up for the free guide," they're more open to "the kind of person who buys the workshop."
+If not, that's fine too. The next [cohort/launch/round] is [when], and I'll let you know.
 
-**How to apply:**
-- Cold ad → email opt-in → email nurture → free workshop → paid offer
-- Each step asks for slightly more than the previous
-- $0 → email → $17 → $297 → $997 is a reasonable price ladder for a digital business
-- Don't jump cold → $497 unless you have brand equity
+[First name]
+```
 
----
+### Email 7 — Transition to weekly (Day 10+)
 
-## Principle 12: The 7-second rule for first impressions
+```
+Subject: Going weekly from here
+Preview: What you'll get each week
 
-Web users decide whether to stay on a page within 7 seconds. Video viewers decide within 3 seconds. Email subjects are scanned in <1 second.
+Hey,
 
-**Why it works:** Attention is scarce. The brain triages mercilessly.
+That's the welcome series done. From here I'll send one email a week. Sometimes a tactical tip. Sometimes a story. Occasionally an offer.
 
-**How to apply:**
-- Front-load value in every script
-- Subject lines: hook in the first 5 words
-- Video: payoff promise in first 3 seconds
-- Landing page: headline + subhead must do the entire job before scrolling
+If you'd rather not get those, unsubscribe at the bottom — no offense taken.
+
+If you're sticking around, here's what's coming up:
+
+[1-2 sentence tease of upcoming content/offers]
+
+Talk Wednesday,
+[First name]
+```
 
 ---
 
-## Principle 13: Cognitive ease
+## SEQUENCE 2: Launch (3-5 emails)
 
-People convert more easily when the message is easy to understand. Complex sentences, jargon, and dense paragraphs raise cognitive load and lower conversion.
+For when you're opening a cart, running a sale, or launching a specific cohort. Concentrated, deadline-driven.
 
-**Why it works:** The brain conflates "easy to process" with "true" and "trustworthy." Complex copy feels less believable, even if it's more accurate.
+### Email 1 — Open cart (Day 0)
 
-**How to apply:**
-- Short sentences (use voice.md patterns)
-- Concrete words over abstract
-- One thought per sentence
-- Reading level: 6th-8th grade for most audiences (use Hemingway Editor or similar)
+```
+Subject: It's open: [specific offer]
+Preview: [Specific deadline]
+
+Hey,
+
+[Specific offer] is open. Cart closes [specific time/date].
+
+Here's what you get:
+- [Component 1]
+- [Component 2]
+- [Component 3]
+- [Component 4]
+- [Component 5]
+
+Price: [specific number]
+Guarantee: [specific terms]
+
+[2-3 sentences of context — who this is for, who it's not for.]
+
+Get it here: [LINK]
+
+[First name]
+```
+
+### Email 2 — Mid-launch story / objection handling (Day 2)
+
+```
+Subject: [The most common objection, framed as a question]
+Preview: [The answer, briefly]
+
+Hey,
+
+The question I'm getting most this week is: "[the objection in their own words]"
+
+Here's my honest answer:
+
+[3-4 paragraphs addressing the objection. Don't gloss it. Acknowledge the real concern, then explain why your product solves it.]
+
+If you want the full picture: [LINK]
+
+[First name]
+```
+
+### Email 3 — Final 24 hours (Day 4-5)
+
+```
+Subject: 24 hours
+Preview: [specific time it closes]
+
+Hey,
+
+[Specific offer] closes [specific time].
+
+Quick recap of what you get: [bullet list, brief]
+
+[1-2 sentences reframing the value or reminding the deadline.]
+
+Click here if you're in: [LINK]
+
+[First name]
+```
+
+### Email 4 — Last 4 hours (often the highest-converting)
+
+```
+Subject: 4 hours left
+Preview: That's it
+
+Hey,
+
+Cart closes in 4 hours. After that, [specific consequence — gone for X months, price goes up, etc.].
+
+If you've been on the fence, this is the last chance.
+
+[LINK]
+
+[First name]
+
+P.S. The most common reason people regret not joining is [specific named reason from past launches]. If that's you, click above.
+```
 
 ---
 
-## Principle 14: Story vs. statistics
+## SEQUENCE 3: Weekly Nurture (1/week, ongoing)
 
-A single specific story will outperform aggregate statistics 80% of the time. The brain processes stories more deeply than data.
+Build the relationship. Pitch occasionally. Be a person.
 
-**Why it works:** Narrative is the brain's native processing format. Statistics activate analytical mode (slow, skeptical); stories activate emotional mode (fast, trusting).
+### Standard weekly email template
 
-**How to apply:**
-- Pair every statistic with a story ("Average student saves 6 hrs/week. Sarah K. saved 11.")
-- The story is the persuasion; the statistic is the validation
-- Customer case studies > customer aggregate data
+```
+Subject: [Specific hook — story, stat, or insight. Not topical.]
+Preview: [Second-line hook]
+
+Hey,
+
+[1-3 paragraphs of value. Story, tactical insight, or framing.]
+
+[1-2 paragraphs of takeaway / lesson — but don't moralize.]
+
+[1 sentence soft mention of relevant offer, if any. Not pitchy.]
+
+Talk soon,
+[First name]
+
+P.S. [One specific thing — current project, customer win, news.]
+```
+
+### Weekly nurture rotation (suggested cadence)
+
+- **Week 1:** Tactical (something they can use)
+- **Week 2:** Story (yours or customer's)
+- **Week 3:** Framing / insight (a lens to see something differently)
+- **Week 4:** Soft pitch (a specific offer, lightly mentioned)
+
+Then repeat. This keeps the list trained that you'll deliver value 3 weeks out of 4.
 
 ---
 
-## When you don't know which principle is the issue
+## Email-specific voice rules
 
-If a script is underperforming and you can't tell why, walk this diagnostic:
+(In addition to standard voice from `references/voice.md`)
 
-1. **Low hook rate?** → Principles 1, 5, 9, 12 (specificity, curiosity, pattern interrupt, 7-second rule)
-2. **High hook, low hold?** → Principles 9, 13 (pattern interrupts, cognitive ease)
-3. **High engagement, low conversion?** → Principles 3, 4, 7, 14 (social proof, risk reversal, anchoring, story)
-4. **Conversion drops at offer?** → Principles 4, 6, 7 (risk reversal, single action, anchoring)
-5. **First sale never repeats?** → Principles 8, 10 (reciprocity, trust accumulation)
+1. **Write like one person to one person.** Not "Hi everyone." Just "Hey."
+2. **First-person sender.** "Sarah" not "The Team at Acme."
+3. **No headers, no formatting.** Plain text reads more personal than designed templates. Skip the HTML emails unless you need product images.
+4. **Short paragraphs.** Mobile-readable. Max 3 lines per paragraph.
+5. **One CTA, repeated.** The same link 2-3 times throughout the email.
+6. **P.S. is the second hook.** Many people read the P.S. first. Put something specific and good there.
 
-See `workflows/diagnose.md` for the full diagnostic workflow.
+## Subject line patterns that work
+
+- **Specific number:** "47 minutes" or "$11,847"
+- **Mid-thought:** "...about that workflow"
+- **Personal:** "quick question"
+- **Curiosity gap:** "the reason this is broken"
+- **Contrarian:** "stop posting daily"
+- **Story:** "Sarah's Tuesday"
+- **Time-bound:** "24 hours" or "by Friday"
+
+## Subject lines that don't work
+
+- All caps: "HUGE NEWS!!!"
+- Heavy emoji
+- "RE:" or "FW:" fake-reply tricks
+- "URGENT" or "OPEN NOW"
+- Vague: "An update for you"
+- Spam-trigger words: "free," "amazing," "limited time"
+
+## Pre-delivery check
+
+- [ ] Subject line under 50 characters
+- [ ] Subject is specific (number, name, or specific outcome)
+- [ ] Preview text continues or adds to the subject
+- [ ] No "Dear Customer" — use "Hey" or no greeting
+- [ ] Plain text feel (not heavy HTML)
+- [ ] Short paragraphs (max 3 lines each)
+- [ ] One CTA, repeated 2-3 times
+- [ ] P.S. contains something specific
+- [ ] Signed with first name only
+- [ ] Reads as personal, not broadcast

@@ -1,174 +1,226 @@
-# Template: Carousel Ad (5-slide)
+# Template: Video Sales Letter (VSL)
 
-Top-performing format for many course and product offers in 2026. Treat each slide as one micro-script.
+Long-form persuasive video that does the work of a sales page. Two flavors based on price point and audience temperature.
 
-## Format specs
+## When to use VSLs
 
-- **Aspect:** 1:1 square (universal); 4:5 supported on some platforms
-- **Slide count:** 5 is the sweet spot (minimum 3, maximum 10)
-- **Each slide:** Must be readable in 1 second; must stand alone
-- **Caption text per slide:** Each slide can have its own headline
+| Offer price | Audience | VSL type |
+|---|---|---|
+| $17-$297 | Warm (already in your world) | Short VSL (3-6 min) |
+| $497+ | Cold or mixed | Long VSL (8-15 min) |
+| $5K+ | High-ticket / consulting | Long VSL + booking call |
 
-## The 5-slide structure
+**Don't use a VSL when:** Quick impulse purchases under $50 (a 60-second video on the landing page often outperforms). The decision is too small to justify 5+ minutes.
+
+## SHORT VSL (3-6 minutes)
+
+For warm traffic + low-to-mid ticket. Tight, punchy, no fat.
+
+### Structure
 
 ```
-Slide 1: HOOK (must be the most attention-grabbing)
-Slide 2: PROBLEM expanded
-Slide 3: MECHANISM or step
-Slide 4: OUTCOME / proof
-Slide 5: CTA (with visual arrow or "→")
+0:00-0:15   Pattern interrupt / Hook
+0:15-0:45   Promise (what they'll get from this video)
+0:45-1:30   Problem (vivid, named)
+1:30-2:30   Solution introduction
+2:30-3:30   Proof (1-2 strong case studies)
+3:30-4:30   The offer + risk reversal
+4:30-5:00   Specific CTA
 ```
 
-## Fill-in template
+### Fill-in template (short VSL)
 
 ```
 SCRIPT: [name]
-HOOK TYPE: [Pain | Curiosity | Contrarian | etc.]
-FRAMEWORK: [The carousel structure works best with Hook-Body-CTA expanded across slides]
+LENGTH: ~4-5 minutes
+HOOK TYPE: [usually Pattern Interrupt or Specific-Result for VSL]
 AUDIENCE: [one specific person]
-OFFER: [one sentence]
+OFFER: [one sentence with price and time bound]
 
 ---
 
-[SLIDE 1 — HOOK]
-Visual: [bold text on solid background, OR opening image with text overlay]
-Headline: "[hook line, 6-10 words, very large]"
-Subhead: "[supporting line, 5-8 words]"
-Note: This slide must work as a standalone static ad. If viewer doesn't swipe, it has to still communicate.
+[0:00-0:15] PATTERN INTERRUPT / HOOK
+Visual: [unusual opening — bold statement on screen, you walking into frame mid-action, surprising visual]
+Verbal: "[opening line — specific, mid-thought, attention-grabbing]"
 
-[SLIDE 2 — PROBLEM EXPANDED]
-Visual: [image or screenshot illustrating the problem]
-Headline: "[the second-order problem]"
-Body text: "[1-2 short lines expanding the cost or scale of the problem]"
+[0:15-0:45] PROMISE
+Verbal: "In the next 4 minutes I'm going to show you [specific outcome]. If you [audience descriptor], stay with me — this changes the math."
+Visual: [supporting B-roll, screen visual, or your work environment]
 
-[SLIDE 3 — MECHANISM / STEP]
-Visual: [screenshot, diagram, or process visualization]
-Headline: "[name of the mechanism or the contrarian reframe]"
-Body text: "[1-2 lines explaining what changes]"
+[0:45-1:30] PROBLEM
+Verbal: "Here's where most [audience] are right now: [specific, vivid problem]. And the second-order cost is [the cost they don't see — time, money, opportunity]."
+Visual: [B-roll showing the problem state — messy desk, late night work, etc.]
 
-[SLIDE 4 — OUTCOME / PROOF]
-Visual: [result screenshot, named customer photo, or specific data]
-Headline: "[the result, specific]"
-Body text: "[named customer attribution or specific data]"
+[1:30-2:30] SOLUTION INTRODUCTION
+Verbal: "What I built / discovered is [the solution in one sentence]. The way it works is [mechanism in 2-3 sentences]."
+Visual: [screen recording or demonstration of the solution]
 
-[SLIDE 5 — CTA]
-Visual: [your offer card — workshop date, product image, or branded card]
-Headline: "[clear next step]"
-Body text: "[price, timing, what's included]"
-Visual cue: arrow icon "→" or "Swipe up" if Stories
+[2:30-3:30] PROOF
+Verbal: "Here's [specific customer name]. [Their specific result.] And here's [second customer]. [Their result.] Last 90 days we've seen [aggregate stat]."
+Visual: [testimonial clips, screenshot of results, named customer photos]
 
----
+[3:30-4:30] THE OFFER + RISK REVERSAL
+Verbal: "If you want this, here's exactly what you get: [list 3-5 components, each named with brief value]. The price is [specific number]. And here's my guarantee: [specific terms]."
+Visual: [offer slide / product mockup, then guarantee badge]
 
-PRIMARY TEXT (the caption above the carousel):
-"[2-4 sentences. Front-load the hook in first 125 characters. The caption should make the user want to start swiping.]"
-
-HEADLINE (below the carousel, above CTA button):
-"[5-8 word version of the hook]"
-
-CTA BUTTON: [Sign Up | Get Offer | Shop Now | Learn More]
+[4:30-5:00] SPECIFIC CTA
+Verbal: "Click the link below. Pick your option. I'll see you on the inside."
+Visual: [arrow pointing to button, button visible on screen, URL displayed]
+On-screen text: [the URL or button label]
 ```
 
-## Filled example (your context: workshop carousel)
+### Filled short VSL example
 
 ```
-SCRIPT: AI Workshop Carousel — Variation A
+SCRIPT: AI Workflow Workshop — Short VSL
+LENGTH: 4:30
 HOOK TYPE: Specific-Result
-AUDIENCE: Solopreneurs spending hours on weekly content
+AUDIENCE: Solopreneurs who've spent money on AI tools/courses without shipping
+OFFER: Live workshop Saturday $17 — ship one working AI workflow by Sunday.
 
 ---
 
-[SLIDE 1 — HOOK]
-Visual: Solid black background, large yellow text
-Headline: "47 minutes."
-Subhead: "Last Sunday's entire week of content."
+[0:00-0:15]
+Visual: You at desk, looking at camera. Behind you, monitor shows a dashboard updating in real-time.
+Verbal: "I just watched my workflow draft 8 client emails in 90 seconds. Last year that would've taken me 4 hours. I'm going to show you exactly how I built this — and how you can build yours by Sunday."
 
-[SLIDE 2 — PROBLEM EXPANDED]
-Visual: Calendar screenshot showing 6+ hours blocked for content on Sundays
-Headline: "Used to take me 6 hours every Sunday."
-Body text: "Sunday became 'work day.' I started dreading it."
+[0:15-0:45]
+Verbal: "I'm not a developer. I haven't taken a coding course. The whole thing cost $0 to set up. In the next 4 minutes I'll show you the three pieces that make it work — and how to get yours running this weekend."
+Visual: Cut to overhead shot of a printed workflow diagram on the desk.
 
-[SLIDE 3 — MECHANISM]
-Visual: Screenshot of saved ChatGPT prompt library (12 prompts visible)
-Headline: "I built 12 prompts. One for every weekly task."
-Body text: "Content. Sales. Follow-ups. Client work. Each takes 4-8 minutes."
+[0:45-1:30]
+Verbal: "If you're like most solopreneurs I work with, you've already bought 2-4 AI courses. You've watched maybe 20% of them. You've got a folder full of prompts you saved 'for later.' And you still haven't shipped a single working workflow. That's not a discipline problem — that's a 'where do I start' problem. And every week you don't start is another week of doing manually what could be automated."
+Visual: Quick montage — Course modules locked, prompts in a folder, calendar full of repetitive tasks.
 
-[SLIDE 4 — OUTCOME / PROOF]
-Visual: Screenshot showing a finished week of social posts + emails
-Headline: "Last Sunday: done by 11am. Outside by noon."
-Body text: "47 of 52 attendees from last workshop are running this weekly."
+[1:30-2:30]
+Verbal: "The fix is stupidly simple. Pick one workflow you do every week. Build it once with me. Ship it. Then build the next one. That's the whole method. On Saturday at 10am we're going to do this together — live — and you'll leave with a working workflow you can use Monday morning."
+Visual: Screen recording showing a workflow being built in real time — 30-second timelapse.
 
-[SLIDE 5 — CTA]
-Visual: Branded card with workshop details — Saturday, 10am, $17
-Headline: "Build all 12 with me Saturday."
-Body text: "Live workshop. 90 minutes. $17. Link below."
-Visual cue: large "→" arrow
+[2:30-3:30]
+Verbal: "Last workshop, 52 people showed up. 47 of them shipped a working workflow within 7 days. Sarah K., a bookkeeper, built a client reporting automation that saved her 11 hours her first week. Marcus T. built an email triage workflow that cut his inbox time by 70%. These are real people, not paid testimonials."
+Visual: Photos and short clips of named customers, screenshots of their results.
+
+[3:30-4:30]
+Verbal: "Here's what you get when you join Saturday: the live 90-minute workshop where we build together, the 12 prompt templates I use every week, lifetime access to the recording, and a 30-day Slack community to keep building with the group. Total cost: $17. Guarantee: if you don't ship a working workflow within 14 days, I'll refund you and stay on a call with you until you do."
+Visual: Offer slide listing components. Then a guarantee badge.
+
+[4:30-5:00]
+Verbal: "Click the link below. Saturday, 10am Eastern. $17. I'll see you on the inside."
+Visual: Link visible on screen, URL displayed prominently.
+On-screen text: "SAT 10AM ET | $17 | [URL]"
+```
 
 ---
 
-PRIMARY TEXT:
-"47 minutes. That's how long my weekly content took last Sunday. Used to take 6 hours. The difference: 12 prompts I built one Saturday. Workshop this Saturday — we build all 12 together. $17."
+## LONG VSL (8-15 minutes)
 
-HEADLINE: "Build 12 weekly AI prompts in one Saturday."
+For cold traffic + higher ticket ($497+). More room to build trust, agitate the problem, and overcome objections.
 
-CTA BUTTON: Sign Up
-```
-
-## Three-variation output for carousels
-
-When generating 3 carousel variations, vary the angle but keep the 5-slide structure:
-
-**Variation A:** Specific-Result hook (above)
-
-**Variation B:** Contrarian hook — open with reframe
+### Structure (10-part)
 
 ```
-[SLIDE 1] "Stop posting daily. Your business is paying for it."
-[SLIDE 2] "I posted daily for 14 months. Made $0 from organic. Burned out completely."
-[SLIDE 3] "I switched to weekly content + ads. Same audience growth, less time, actual revenue."
-[SLIDE 4] "Last 90 days: $14,200 from one ad campaign. Daily posting was the trap."
-[SLIDE 5] "Workshop Saturday: how to build the content + ad system. $17."
+0:00-0:30    1. Pattern interrupt / Shocking statement
+0:30-1:30    2. Promise (what they'll learn)
+1:30-3:00    3. Problem (in vivid detail)
+3:00-4:30    4. Agitate (the cost of doing nothing)
+4:30-6:30    5. Solution introduction (your product, framed as inevitable)
+6:30-9:00    6. Proof (multiple case studies, data, your own results)
+9:00-10:30   7. The offer (what's included, price, bonuses)
+10:30-11:30  8. Risk reversal (guarantee)
+11:30-12:30  9. Call to action (specific)
+12:30-15:00  10. FAQ / objection handling
 ```
 
-**Variation C:** Story hook — open mid-story
+### Fill-in template (long VSL)
 
 ```
-[SLIDE 1] "I deleted 11 of my 12 SaaS subscriptions last month."
-[SLIDE 2] "$890/month. Used 4 of them regularly. The other 8 were guilt-buys from launches."
-[SLIDE 3] "I replaced everything with 3 workflows. Total cost: $87/mo."
-[SLIDE 4] "Same output. 90% less spending. Same results, less stress."
-[SLIDE 5] "Workshop: build your first replacement workflow Saturday. $17."
+SCRIPT: [name]
+LENGTH: ~10-12 minutes
+HOOK TYPE: [Pattern Interrupt + Story usually best for long VSL]
+AUDIENCE: [one specific person]
+OFFER: [one sentence with price]
+
+---
+
+[0:00-0:30] PATTERN INTERRUPT
+Verbal: "[Shocking statement, surprising data, or vivid moment that contradicts category expectation]"
+Visual: [unexpected opening — not a talking head intro]
+
+[0:30-1:30] PROMISE
+Verbal: "In the next 10 minutes I'm going to show you [the big promise]. If [audience descriptor], stick with me — this changes everything about [their problem domain]."
+Tease the offer: "By the end I'll also show you exactly how to get [the outcome] starting this week."
+
+[1:30-3:00] PROBLEM (vivid)
+Verbal: Paint the current reality in detail. Specific, named pain points. Use second-person ("you") throughout.
+Visual: B-roll, supporting visuals.
+
+[3:00-4:30] AGITATE (cost of doing nothing)
+Verbal: "And here's what most people don't realize. If you don't fix this, [first-order cost]. But the real cost is [second-order cost — opportunity cost, compounding cost, identity cost]. Multiply that by [time period] and you're looking at [total cost]."
+Visual: Math on screen, or stark imagery showing the future state of inaction.
+
+[4:30-6:30] SOLUTION INTRODUCTION
+Verbal: "What I want to show you is [the solution]. It works because [mechanism]. And it's different from what you've tried because [the differentiator]."
+Visual: Demonstration of the solution. Screen recording or product walkthrough.
+
+[6:30-9:00] PROOF
+Verbal: "Here's [Customer 1]. [Story + specific result.] Here's [Customer 2]. [Story + specific result.] Here's [Customer 3]. [Story + specific result.] And here's the aggregate: [stat across all customers]."
+Visual: Multiple testimonials, screenshots of results, named customer photos.
+
+[9:00-10:30] THE OFFER
+Verbal: "When you join [program name], here's what you get:" Then list 5-7 components, each with named value:
+- Component 1: [value]
+- Component 2: [value]
+- Component 3: [value]
+- Component 4: [value]
+- Component 5: [value]
+"Total value: $____. Today's investment: $____."
+
+[10:30-11:30] RISK REVERSAL
+Verbal: "Here's my guarantee: [specific terms — 30-day money back, results guarantee, or something stronger]. The reason I can offer this is [reason that signals confidence]."
+
+[11:30-12:30] CALL TO ACTION
+Verbal: "Click the button below. Choose your option. I'll see you on the inside."
+Specific. Repeat 2-3 times.
+
+[12:30-15:00] FAQ
+Take 3-5 most common objections and answer them on-camera:
+- "What if I'm a beginner?"
+- "How long until I see results?"
+- "How is this different from [competitor]?"
+- "What if I can't make the live sessions?"
+- "What if it doesn't work for me?"
+Confident, specific answers each time.
 ```
 
-## Why this structure works
+---
 
-1. **Slide 1 stands alone.** If they don't swipe, you still made a static ad.
-2. **Each subsequent slide adds value.** Reward for swiping.
-3. **Slide 5 is the only sales slide.** All previous slides built trust and value.
-4. **The visual story is coherent.** Even if someone speed-swipes, the flow makes sense.
+## VSL-specific rules
 
-## Carousel-specific rules
+1. **Cut tightly.** Modern VSLs are 30% shorter than 2018-era VSLs. No fat.
+2. **Show, don't tell.** Every claim should have a visual element backing it. Screen recordings beat talking heads.
+3. **Captions on.** Some viewers will skim. Captions let them follow.
+4. **One CTA.** Same link, same offer, repeated. Don't fork the decision.
+5. **Specific over big.** "47 of 52 students" beats "thousands of students." Use the most specific number you can defend.
+6. **Don't apologize for length.** Don't say "this is a long video but stick with me." If you're worth watching, prove it; don't beg.
 
-1. **Headlines on each slide.** Not just decorative — readable in 1 second.
-2. **Consistent visual style.** Same fonts, color palette, formatting across slides. Inconsistency signals amateur.
-3. **No "swipe →" on slide 1.** The viewer should want to swipe because of the content, not because you ordered them to. Save the arrow for slide 5 where it's the CTA.
-4. **Number your slides if it helps comprehension.** "1 of 5" in the corner of each slide helps viewers track. Skip if it interrupts the design.
+## VSL pitfalls (avoid)
 
-## Carousel pitfalls (avoid)
-
-- **All 5 slides look the same.** Defeats the format. Each slide should add new info.
-- **All 5 slides show the product from different angles.** Same. Add new info.
-- **No CTA slide.** People who swipe to the end and find no offer have wasted time. Slide 5 must convert.
-- **Slide 1 doesn't stand alone.** "Read all 5 to understand" = nobody reads any.
-- **Cramming too much text per slide.** 1-second-readability rule. If a slide takes 4 seconds to read, cut it.
+- **Long credibility intro.** Cuts retention. Stick to 30 sec max even in long VSL.
+- **Vague proof.** "Thousands of happy customers" — meaningless. Name names, show screenshots.
+- **Stacked unrealistic bonuses.** When viewers see "lifetime access — $9,999 value!" tied to a $97 product, trust collapses.
+- **Buried CTA.** CTA appears only in last 30 seconds — viewers who decided at minute 5 have already left.
+- **Multiple price options without anchoring.** "$97 or $297 or $697" without an anchor confuses. Pick one main option + maybe one upgrade.
 
 ## Pre-delivery check
 
-- [ ] 5 slides (not 3, not 10)
-- [ ] Slide 1 stands alone as a complete ad
-- [ ] Each slide adds new information
-- [ ] One CTA, on slide 5 only
-- [ ] Consistent visual style across all slides
-- [ ] Each slide readable in 1 second
-- [ ] Specific number, name, or time on at least 2 slides
-- [ ] Headline + body text visible on every slide
-- [ ] Final slide has a visual cue indicating the action
+- [ ] Opens with pattern interrupt (not "Hi, I'm...")
+- [ ] Promise stated within first 60 seconds
+- [ ] Problem painted vividly with second-person voice
+- [ ] Agitate phase included (not just problem)
+- [ ] At least 2 named customer case studies
+- [ ] Specific value attached to each offer component
+- [ ] Anchored price (value > price stated explicitly)
+- [ ] Specific guarantee (not "satisfaction guaranteed")
+- [ ] One CTA, repeated 2-3 times
+- [ ] FAQ section for long VSL (not short)
+- [ ] Total length matches format (3-6 short / 8-15 long)
