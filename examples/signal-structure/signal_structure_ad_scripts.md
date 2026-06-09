@@ -6,16 +6,14 @@
 ## OFFER CONTEXT
 
 **Product:** AI Presence Management — Done-For-You Monitoring AND Fixing
-**Audience:** Coaches, consultants, personal brand builders
+**Audience:** Experienced professionals, executives, and small business owners who've built their reputations over decades
 **Awareness Level:** Problem-unaware to problem-aware (they don't know AI is shaping their reputation)
-**Price:** $497 setup + $297/month (beta)
+**Price:** $797 setup + $297/month (beta) — setup includes first month
 **Key Differentiators:**
 1. We monitor 13 AI platforms — ones you've probably never heard of (competitors only check 3-5)
 2. We don't just report — we actually FIX what's wrong
 
 **USP Line:** "13 platforms. Not just reports — fixes. Done for you. Every month."
-
-**Proof Anchor:** "Even Coca-Cola scores 44/100. They survive because they're Coca-Cola. You don't have that luxury."
 
 ---
 
@@ -56,7 +54,7 @@
 |-----------|--------|-------------------|------|
 | Curiosity | Leaning in, eyebrows slightly raised | Engaged, "let me tell you something" | Medium |
 | Urgency/Pain | Direct, slight concern | Serious but caring | Slightly faster |
-| Coca-Cola/Proof | Knowing smile at start | "Can you believe this?" → warm | Medium, pause for effect |
+| Proof/Social | Knowing smile at start | "Can you believe this?" → warm | Medium, pause for effect |
 | Story | Relaxed, conversational | Animated, like telling a friend | Natural, varied |
 | Contrarian | Confident, matter-of-fact | Slight head tilt, "here's the thing" | Measured |
 
@@ -135,8 +133,8 @@ And I don't just send you a report and wish you luck. I go in and fix what's wro
 
 ---
 
-### SCRIPT 3: "Coca-Cola" Hook (Social Proof + Contrast)
-**Hook type:** Third-party proof
+### SCRIPT 3: "The Made-Up Award" Hook (Story + Proof)
+**Hook type:** Real story proof
 **Length:** 28 seconds
 
 **SCENE DIRECTION:**
@@ -148,26 +146,26 @@ And I don't just send you a report and wish you luck. I go in and fix what's wro
 
 ```
 [0-3 sec] HOOK
-"Coca-Cola scores 44 out of 100 on AI visibility."
+"A client called me last month. ChatGPT told someone she won an award she never received."
 
 [3-10 sec] CONTEXT
-"They're a multi-billion dollar brand and AI platforms still get things wrong about them.
-They survive because they're Coca-Cola.
-You don't have that luxury."
+"Her website was accurate. Her LinkedIn was accurate. Everything she controlled was right.
+But AI was making things up — and people were believing it.
+That's when she called me."
 
 [10-20 sec] SOLUTION + DIFFERENTIATOR
-"I built something that monitors how you're showing up across 13 AI platforms — most you've probably never heard of.
+"I monitor 13 AI platforms — ones you've probably never heard of.
 Not just ChatGPT — 13 platforms, including ones most people haven't heard of.
 And when AI is making things up about you? I don't just tell you. I fix it."
 
 [20-28 sec] CTA
-"Most coaches I check are scoring below 30.
+"Most professionals I check are shocked by what they find.
 DM 'SIGNAL' — I'll run a quick check on your business. Takes 2 minutes."
 ```
 
 **Visual cues:**
-- [0-3 sec] Amused eyebrow raise, "can you believe this?" energy
-- [3-10 sec] Stop walking briefly, direct to camera on "You don't have that luxury"
+- [0-3 sec] Eyebrow raise, "you won't believe this" energy
+- [3-10 sec] Stop walking briefly, direct to camera on "making things up"
 - [10-20 sec] Resume walking, confident delivery
 - [20-28 sec] Stop again, warm inviting smile on CTA
 
@@ -267,7 +265,7 @@ Then I actually fix them. You get a report showing what was wrong AND what I did
 But AI was inventing credentials. And people were believing it."
 
 [10-18 sec] TRANSITION
-"That's when I realized — coaches and consultants have no idea what AI is saying about them.
+"That's when I realized — most professionals have no idea what AI is saying about them.
 So I built a service that monitors 13 AI platforms — ones you've probably never heard of.
 And when something's wrong, I don't just flag it. I fix it."
 
@@ -324,16 +322,18 @@ DM me "SIGNAL" and I'll show you what AI is already saying about your business �
 
 ---
 
-### LINKEDIN AD 2: "Coca-Cola Scores 44"
+### LINKEDIN AD 2: "The Made-Up Award"
 
 ```
-Coca-Cola scores 44 out of 100 on AI visibility.
+A client called me last month.
 
-One of the most recognized brands on Earth, and AI platforms still get things wrong about them.
+"ChatGPT told someone I won an award I never received."
 
-They survive because they're Coca-Cola. You probably don't have that luxury.
+Her website was accurate. Her LinkedIn was accurate. She'd done everything right.
 
-I work with coaches, consultants, and personal brands who've spent years building their reputation.
+But AI was inventing credentials — and people were believing it.
+
+I work with experienced professionals and executives who've spent decades building their reputations.
 
 They had no idea AI was quietly reshaping how people see them.
 
@@ -360,7 +360,7 @@ Most AI monitoring services give you a report and wish you luck.
 
 That's not help. That's homework.
 
-I built something different for coaches, consultants, and service providers:
+I built something different for experienced professionals and business owners:
 
 ✓ Monitor 13 AI platforms — including ones you've never heard of
 ✓ Find hallucinations, gaps, and outdated information
@@ -386,7 +386,7 @@ Use these to test messaging organically before spending money on ads.
 ### ORGANIC POST 1: Educational Hook
 
 ```
-Quick question for coaches and consultants:
+Quick question for business owners:
 
 Do you know what AI is saying about you?
 
@@ -445,7 +445,7 @@ But when someone asked AI about her credentials, it invented an award she never 
 
 People were believing it.
 
-That's when I realized: most coaches and consultants have no idea what AI is saying about them.
+That's when I realized: most professionals have no idea what AI is saying about them.
 
 I built a service to fix this. I monitor all 13 AI platforms, find what's wrong, and actually correct it.
 
